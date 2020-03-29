@@ -1,1 +1,1 @@
-# project-z
+# PROJECT Z
