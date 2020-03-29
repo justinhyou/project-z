@@ -41,7 +41,7 @@ Invalid state results in an empty json response.
 
 By default, the server will be set up as `localhost:9000`. 
 
-To correctly add the cron job to the crontab, modify the workspace() method in Util.py. 
+To correctly add the cron job to the crontab, modify the workspace() method in Util.py with your work directory path. 
 
 ### Contact
 
