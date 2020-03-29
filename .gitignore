@@ -1,0 +1,10 @@
+# OS Generated Files #
+.DS_Store
+._*
+.Trashes
+
+# Compiled Output/Optimized Files #
+__pycache__/
+dist/
+*.egg-info/
+*.pyc

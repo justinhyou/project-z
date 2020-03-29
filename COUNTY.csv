@@ -1,0 +1,1798 @@
+state,county,date,fips,cases,deaths
+alabama,autauga,2020-03-27,1001.0,6,0
+alabama,baldwin,2020-03-27,1003.0,5,0
+alabama,blount,2020-03-27,1009.0,5,0
+alabama,bullock,2020-03-27,1011.0,2,0
+alabama,butler,2020-03-27,1013.0,1,0
+alabama,calhoun,2020-03-27,1015.0,3,0
+alabama,chambers,2020-03-27,1017.0,15,0
+alabama,cherokee,2020-03-27,1019.0,1,0
+alabama,chilton,2020-03-27,1021.0,7,0
+alabama,choctaw,2020-03-27,1023.0,1,0
+alabama,clay,2020-03-27,1027.0,1,0
+alabama,cleburne,2020-03-27,1029.0,3,0
+alabama,colbert,2020-03-27,1033.0,1,0
+alabama,coosa,2020-03-27,1037.0,2,0
+alabama,covington,2020-03-27,1039.0,2,0
+alabama,crenshaw,2020-03-27,1041.0,1,0
+alabama,cullman,2020-03-27,1043.0,7,0
+alabama,dallas,2020-03-27,1047.0,2,0
+alabama,dekalb,2020-03-27,1049.0,4,0
+alabama,elmore,2020-03-27,1051.0,12,0
+alabama,escambia,2020-03-27,1053.0,1,0
+alabama,etowah,2020-03-27,1055.0,5,0
+alabama,franklin,2020-03-27,1059.0,3,0
+alabama,greene,2020-03-27,1063.0,1,0
+alabama,houston,2020-03-27,1069.0,4,0
+alabama,jackson,2020-03-27,1071.0,5,1
+alabama,jefferson,2020-03-27,1073.0,179,0
+alabama,lamar,2020-03-27,1075.0,1,0
+alabama,lauderdale,2020-03-27,1077.0,11,1
+alabama,lawrence,2020-03-27,1079.0,3,0
+alabama,lee,2020-03-27,1081.0,53,0
+alabama,limestone,2020-03-27,1083.0,16,0
+alabama,lowndes,2020-03-27,1085.0,1,0
+alabama,madison,2020-03-27,1089.0,61,1
+alabama,marengo,2020-03-27,1091.0,2,0
+alabama,marion,2020-03-27,1093.0,7,0
+alabama,marshall,2020-03-27,1095.0,4,0
+alabama,mobile,2020-03-27,1097.0,23,1
+alabama,montgomery,2020-03-27,1101.0,18,0
+alabama,morgan,2020-03-27,1103.0,13,0
+alabama,pickens,2020-03-27,1107.0,1,0
+alabama,pike,2020-03-27,1109.0,4,0
+alabama,randolph,2020-03-27,1111.0,1,0
+alabama,russell,2020-03-27,1113.0,1,0
+alabama,shelby,2020-03-27,1117.0,70,0
+alabama,st. clair,2020-03-27,1115.0,9,0
+alabama,talladega,2020-03-27,1121.0,4,0
+alabama,tallapoosa,2020-03-27,1123.0,5,0
+alabama,tuscaloosa,2020-03-27,1125.0,22,0
+alabama,walker,2020-03-27,1127.0,24,0
+alabama,washington,2020-03-27,1129.0,2,0
+alabama,wilcox,2020-03-27,1131.0,2,0
+alabama,winston,2020-03-27,1133.0,2,0
+alaska,anchorage,2020-03-27,2020.0,43,1
+alaska,fairbanks north star borough,2020-03-27,2090.0,19,0
+alaska,juneau city and borough,2020-03-27,2110.0,4,0
+alaska,kenai peninsula borough,2020-03-27,2122.0,5,0
+alaska,ketchikan gateway borough,2020-03-27,2130.0,12,0
+alaska,matanuska-susitna borough,2020-03-27,2170.0,2,0
+arizona,apache,2020-03-27,4001.0,11,0
+arizona,cochise,2020-03-27,4003.0,2,0
+arizona,coconino,2020-03-27,4005.0,41,2
+arizona,graham,2020-03-27,4009.0,4,0
+arizona,la paz,2020-03-27,4012.0,2,0
+arizona,maricopa,2020-03-27,4013.0,399,5
+arizona,mohave,2020-03-27,4015.0,4,0
+arizona,navajo,2020-03-27,4017.0,49,0
+arizona,pima,2020-03-27,4019.0,102,4
+arizona,pinal,2020-03-27,4021.0,36,0
+arizona,santa cruz,2020-03-27,4023.0,2,0
+arizona,yavapai,2020-03-27,4025.0,9,0
+arizona,yuma,2020-03-27,4027.0,4,0
+arkansas,baxter,2020-03-27,5005.0,1,0
+arkansas,benton,2020-03-27,5007.0,24,0
+arkansas,boone,2020-03-27,5009.0,1,0
+arkansas,bradley,2020-03-27,5011.0,4,0
+arkansas,chicot,2020-03-27,5017.0,1,0
+arkansas,clark,2020-03-27,5019.0,17,0
+arkansas,cleburne,2020-03-27,5023.0,49,2
+arkansas,cleveland,2020-03-27,5025.0,4,0
+arkansas,columbia,2020-03-27,5027.0,1,0
+arkansas,conway,2020-03-27,5029.0,2,0
+arkansas,craighead,2020-03-27,5031.0,4,0
+arkansas,crawford,2020-03-27,5033.0,1,0
+arkansas,crittenden,2020-03-27,5035.0,12,0
+arkansas,cross,2020-03-27,5037.0,1,0
+arkansas,desha,2020-03-27,5041.0,2,0
+arkansas,drew,2020-03-27,5043.0,2,0
+arkansas,faulkner,2020-03-27,5045.0,28,0
+arkansas,garland,2020-03-27,5051.0,20,0
+arkansas,grant,2020-03-27,5053.0,3,0
+arkansas,greene,2020-03-27,5055.0,3,0
+arkansas,hempstead,2020-03-27,5057.0,1,0
+arkansas,hot spring,2020-03-27,5059.0,2,0
+arkansas,howard,2020-03-27,5061.0,3,0
+arkansas,independence,2020-03-27,5063.0,3,0
+arkansas,jefferson,2020-03-27,5069.0,23,0
+arkansas,lawrence,2020-03-27,5075.0,3,0
+arkansas,lincoln,2020-03-27,5079.0,6,0
+arkansas,lonoke,2020-03-27,5085.0,4,0
+arkansas,pike,2020-03-27,5109.0,2,0
+arkansas,poinsett,2020-03-27,5111.0,3,0
+arkansas,polk,2020-03-27,5113.0,2,0
+arkansas,pope,2020-03-27,5115.0,3,0
+arkansas,pulaski,2020-03-27,5119.0,89,1
+arkansas,randolph,2020-03-27,5121.0,2,0
+arkansas,saline,2020-03-27,5125.0,4,0
+arkansas,searcy,2020-03-27,5129.0,4,0
+arkansas,sebastian,2020-03-27,5131.0,3,0
+arkansas,sevier,2020-03-27,5133.0,1,0
+arkansas,stone,2020-03-27,5137.0,4,0
+arkansas,union,2020-03-27,5139.0,2,0
+arkansas,unknown,2020-03-27,,61,1
+arkansas,van buren,2020-03-27,5141.0,17,0
+arkansas,washington,2020-03-27,5143.0,13,0
+arkansas,white,2020-03-27,5145.0,6,0
+arkansas,woodruff,2020-03-27,5147.0,1,0
+california,alameda,2020-03-27,6001.0,241,4
+california,amador,2020-03-27,6005.0,2,0
+california,butte,2020-03-27,6007.0,5,0
+california,calaveras,2020-03-27,6009.0,3,0
+california,colusa,2020-03-27,6011.0,1,0
+california,contra costa,2020-03-27,6013.0,151,2
+california,el dorado,2020-03-27,6017.0,12,0
+california,fresno,2020-03-27,6019.0,31,0
+california,humboldt,2020-03-27,6023.0,14,0
+california,imperial,2020-03-27,6025.0,21,0
+california,inyo,2020-03-27,6027.0,5,0
+california,kern,2020-03-27,6029.0,41,1
+california,kings,2020-03-27,6031.0,1,0
+california,los angeles,2020-03-27,6037.0,1465,27
+california,madera,2020-03-27,6039.0,11,1
+california,marin,2020-03-27,6041.0,69,1
+california,mendocino,2020-03-27,6045.0,2,0
+california,merced,2020-03-27,6047.0,7,0
+california,mono,2020-03-27,6051.0,8,0
+california,monterey,2020-03-27,6053.0,27,1
+california,napa,2020-03-27,6055.0,10,0
+california,nevada,2020-03-27,6057.0,12,0
+california,orange,2020-03-27,6059.0,321,3
+california,placer,2020-03-27,6061.0,41,1
+california,riverside,2020-03-27,6065.0,185,8
+california,sacramento,2020-03-27,6067.0,164,6
+california,san benito,2020-03-27,6069.0,11,1
+california,san bernardino,2020-03-27,6071.0,64,3
+california,san diego,2020-03-27,6073.0,417,5
+california,san francisco,2020-03-27,6075.0,282,3
+california,san joaquin,2020-03-27,6077.0,93,4
+california,san luis obispo,2020-03-27,6079.0,59,0
+california,san mateo,2020-03-27,6081.0,239,6
+california,santa barbara,2020-03-27,6083.0,47,0
+california,santa clara,2020-03-27,6085.0,574,21
+california,santa cruz,2020-03-27,6087.0,34,0
+california,shasta,2020-03-27,6089.0,3,1
+california,siskiyou,2020-03-27,6093.0,3,0
+california,solano,2020-03-27,6095.0,39,0
+california,sonoma,2020-03-27,6097.0,50,1
+california,stanislaus,2020-03-27,6099.0,23,0
+california,sutter,2020-03-27,6101.0,2,0
+california,tulare,2020-03-27,6107.0,24,0
+california,unknown,2020-03-27,,1,0
+california,ventura,2020-03-27,6111.0,83,3
+california,yolo,2020-03-27,6113.0,16,1
+california,yuba,2020-03-27,6115.0,3,0
+colorado,adams,2020-03-27,8001.0,71,0
+colorado,alamosa,2020-03-27,8003.0,1,0
+colorado,arapahoe,2020-03-27,8005.0,155,1
+colorado,boulder,2020-03-27,8013.0,76,1
+colorado,broomfield,2020-03-27,8014.0,13,0
+colorado,chaffee,2020-03-27,8015.0,5,1
+colorado,clear creek,2020-03-27,8019.0,3,0
+colorado,costilla,2020-03-27,8023.0,1,0
+colorado,crowley,2020-03-27,8025.0,1,1
+colorado,delta,2020-03-27,8029.0,2,0
+colorado,denver,2020-03-27,8031.0,312,3
+colorado,douglas,2020-03-27,8035.0,79,0
+colorado,eagle,2020-03-27,8037.0,170,1
+colorado,el paso,2020-03-27,8041.0,160,7
+colorado,elbert,2020-03-27,8039.0,3,0
+colorado,fremont,2020-03-27,8043.0,1,0
+colorado,garfield,2020-03-27,8045.0,16,0
+colorado,grand,2020-03-27,8049.0,2,0
+colorado,gunnison,2020-03-27,8051.0,66,1
+colorado,hinsdale,2020-03-27,8053.0,1,0
+colorado,huerfano,2020-03-27,8055.0,1,0
+colorado,jefferson,2020-03-27,8059.0,158,5
+colorado,kit carson,2020-03-27,8063.0,2,0
+colorado,la plata,2020-03-27,8067.0,13,0
+colorado,larimer,2020-03-27,8069.0,67,1
+colorado,lincoln,2020-03-27,8073.0,1,0
+colorado,logan,2020-03-27,8075.0,3,0
+colorado,mesa,2020-03-27,8077.0,7,0
+colorado,montrose,2020-03-27,8085.0,6,0
+colorado,morgan,2020-03-27,8087.0,4,0
+colorado,otero,2020-03-27,8089.0,2,0
+colorado,park,2020-03-27,8093.0,1,0
+colorado,pitkin,2020-03-27,8097.0,25,0
+colorado,pueblo,2020-03-27,8101.0,7,1
+colorado,rio grande,2020-03-27,8105.0,2,0
+colorado,routt,2020-03-27,8107.0,12,0
+colorado,san miguel,2020-03-27,8113.0,1,0
+colorado,summit,2020-03-27,8117.0,10,0
+colorado,teller,2020-03-27,8119.0,7,1
+colorado,unknown,2020-03-27,,136,2
+colorado,washington,2020-03-27,8121.0,1,0
+colorado,weld,2020-03-27,8123.0,129,6
+colorado,yuma,2020-03-27,8125.0,2,0
+connecticut,fairfield,2020-03-27,9001.0,752,15
+connecticut,hartford,2020-03-27,9003.0,189,2
+connecticut,litchfield,2020-03-27,9005.0,52,0
+connecticut,middlesex,2020-03-27,9007.0,25,1
+connecticut,new haven,2020-03-27,9009.0,222,6
+connecticut,new london,2020-03-27,9011.0,15,0
+connecticut,tolland,2020-03-27,9013.0,33,3
+connecticut,windham,2020-03-27,9015.0,3,0
+delaware,kent,2020-03-27,10001.0,21,0
+delaware,new castle,2020-03-27,10003.0,106,1
+delaware,sussex,2020-03-27,10005.0,38,1
+district of columbia,district of columbia,2020-03-27,11001.0,304,4
+florida,alachua,2020-03-27,12001.0,60,0
+florida,baker,2020-03-27,12003.0,7,0
+florida,bay,2020-03-27,12005.0,4,0
+florida,bradford,2020-03-27,12007.0,1,0
+florida,brevard,2020-03-27,12009.0,20,0
+florida,broward,2020-03-27,12011.0,631,10
+florida,charlotte,2020-03-27,12015.0,8,0
+florida,citrus,2020-03-27,12017.0,11,1
+florida,clay,2020-03-27,12019.0,22,4
+florida,collier,2020-03-27,12021.0,85,0
+florida,columbia,2020-03-27,12023.0,3,0
+florida,desoto,2020-03-27,12027.0,6,0
+florida,duval,2020-03-27,12031.0,99,3
+florida,escambia,2020-03-27,12033.0,28,0
+florida,flagler,2020-03-27,12035.0,12,0
+florida,gadsden,2020-03-27,12039.0,1,0
+florida,hernando,2020-03-27,12053.0,12,0
+florida,highlands,2020-03-27,12055.0,6,1
+florida,hillsborough,2020-03-27,12057.0,174,2
+florida,indian river,2020-03-27,12061.0,15,0
+florida,jackson,2020-03-27,12063.0,1,0
+florida,lake,2020-03-27,12069.0,32,0
+florida,lee,2020-03-27,12071.0,95,5
+florida,leon,2020-03-27,12073.0,15,0
+florida,levy,2020-03-27,12075.0,1,0
+florida,manatee,2020-03-27,12081.0,29,1
+florida,marion,2020-03-27,12083.0,9,0
+florida,martin,2020-03-27,12085.0,17,0
+florida,miami-dade,2020-03-27,12086.0,869,2
+florida,monroe,2020-03-27,12087.0,19,0
+florida,nassau,2020-03-27,12089.0,6,0
+florida,okaloosa,2020-03-27,12091.0,25,0
+florida,orange,2020-03-27,12095.0,174,4
+florida,osceola,2020-03-27,12097.0,56,0
+florida,palm beach,2020-03-27,12099.0,241,5
+florida,pasco,2020-03-27,12101.0,25,1
+florida,pinellas,2020-03-27,12103.0,82,1
+florida,polk,2020-03-27,12105.0,28,0
+florida,putnam,2020-03-27,12107.0,12,0
+florida,santa rosa,2020-03-27,12113.0,13,1
+florida,sarasota,2020-03-27,12115.0,43,2
+florida,seminole,2020-03-27,12117.0,54,0
+florida,st. johns,2020-03-27,12109.0,42,2
+florida,st. lucie,2020-03-27,12111.0,17,1
+florida,sumter,2020-03-27,12119.0,29,0
+florida,suwannee,2020-03-27,12121.0,1,0
+florida,unknown,2020-03-27,,1,0
+florida,volusia,2020-03-27,12127.0,43,0
+florida,walton,2020-03-27,12131.0,14,0
+florida,washington,2020-03-27,12133.0,1,0
+georgia,baker,2020-03-27,13007.0,3,1
+georgia,baldwin,2020-03-27,13009.0,2,0
+georgia,barrow,2020-03-27,13013.0,7,1
+georgia,bartow,2020-03-27,13015.0,107,1
+georgia,ben hill,2020-03-27,13017.0,2,0
+georgia,bibb,2020-03-27,13021.0,11,0
+georgia,bryan,2020-03-27,13029.0,5,0
+georgia,burke,2020-03-27,13033.0,3,0
+georgia,butts,2020-03-27,13035.0,3,0
+georgia,calhoun,2020-03-27,13037.0,2,0
+georgia,camden,2020-03-27,13039.0,2,0
+georgia,carroll,2020-03-27,13045.0,61,0
+georgia,catoosa,2020-03-27,13047.0,1,0
+georgia,charlton,2020-03-27,13049.0,1,0
+georgia,chatham,2020-03-27,13051.0,15,0
+georgia,chattahoochee,2020-03-27,13053.0,1,0
+georgia,chattooga,2020-03-27,13055.0,1,0
+georgia,cherokee,2020-03-27,13057.0,50,1
+georgia,clarke,2020-03-27,13059.0,34,2
+georgia,clayton,2020-03-27,13063.0,53,1
+georgia,clinch,2020-03-27,13065.0,1,0
+georgia,cobb,2020-03-27,13067.0,163,5
+georgia,coffee,2020-03-27,13069.0,3,0
+georgia,colquitt,2020-03-27,13071.0,5,0
+georgia,columbia,2020-03-27,13073.0,10,0
+georgia,coweta,2020-03-27,13077.0,19,2
+georgia,crisp,2020-03-27,13081.0,4,0
+georgia,dawson,2020-03-27,13085.0,3,0
+georgia,decatur,2020-03-27,13087.0,3,0
+georgia,dekalb,2020-03-27,13089.0,219,2
+georgia,dodge,2020-03-27,13091.0,1,0
+georgia,dougherty,2020-03-27,13095.0,203,12
+georgia,douglas,2020-03-27,13097.0,32,1
+georgia,early,2020-03-27,13099.0,13,1
+georgia,effingham,2020-03-27,13103.0,4,0
+georgia,fannin,2020-03-27,13111.0,3,0
+georgia,fayette,2020-03-27,13113.0,22,2
+georgia,floyd,2020-03-27,13115.0,26,1
+georgia,forsyth,2020-03-27,13117.0,21,1
+georgia,franklin,2020-03-27,13119.0,1,0
+georgia,fulton,2020-03-27,13121.0,347,12
+georgia,glynn,2020-03-27,13127.0,7,0
+georgia,gordon,2020-03-27,13129.0,12,1
+georgia,greene,2020-03-27,13133.0,2,0
+georgia,gwinnett,2020-03-27,13135.0,121,1
+georgia,habersham,2020-03-27,13137.0,1,0
+georgia,hall,2020-03-27,13139.0,30,0
+georgia,haralson,2020-03-27,13143.0,1,0
+georgia,harris,2020-03-27,13145.0,1,0
+georgia,hart,2020-03-27,13147.0,1,0
+georgia,heard,2020-03-27,13149.0,1,1
+georgia,henry,2020-03-27,13151.0,44,1
+georgia,houston,2020-03-27,13153.0,10,1
+georgia,irwin,2020-03-27,13155.0,3,0
+georgia,jackson,2020-03-27,13157.0,2,0
+georgia,jasper,2020-03-27,13159.0,2,0
+georgia,jones,2020-03-27,13169.0,2,0
+georgia,lamar,2020-03-27,13171.0,3,0
+georgia,laurens,2020-03-27,13175.0,8,0
+georgia,lee,2020-03-27,13177.0,37,1
+georgia,liberty,2020-03-27,13179.0,1,0
+georgia,lincoln,2020-03-27,13181.0,3,0
+georgia,long,2020-03-27,13183.0,1,0
+georgia,lowndes,2020-03-27,13185.0,20,1
+georgia,lumpkin,2020-03-27,13187.0,4,0
+georgia,macon,2020-03-27,13193.0,1,0
+georgia,madison,2020-03-27,13195.0,3,0
+georgia,mcduffie,2020-03-27,13189.0,1,0
+georgia,meriwether,2020-03-27,13199.0,3,0
+georgia,miller,2020-03-27,13201.0,3,0
+georgia,mitchell,2020-03-27,13205.0,14,0
+georgia,monroe,2020-03-27,13207.0,3,0
+georgia,morgan,2020-03-27,13211.0,1,0
+georgia,muscogee,2020-03-27,13215.0,8,0
+georgia,newton,2020-03-27,13217.0,15,0
+georgia,oconee,2020-03-27,13219.0,10,0
+georgia,paulding,2020-03-27,13223.0,13,0
+georgia,peach,2020-03-27,13225.0,6,0
+georgia,pickens,2020-03-27,13227.0,4,1
+georgia,pierce,2020-03-27,13229.0,1,0
+georgia,polk,2020-03-27,13233.0,10,0
+georgia,pulaski,2020-03-27,13235.0,2,0
+georgia,randolph,2020-03-27,13243.0,3,0
+georgia,richmond,2020-03-27,13245.0,11,0
+georgia,rockdale,2020-03-27,13247.0,16,1
+georgia,seminole,2020-03-27,13253.0,2,0
+georgia,spalding,2020-03-27,13255.0,11,0
+georgia,stephens,2020-03-27,13257.0,2,0
+georgia,sumter,2020-03-27,13261.0,10,0
+georgia,tattnall,2020-03-27,13267.0,2,0
+georgia,taylor,2020-03-27,13269.0,1,0
+georgia,telfair,2020-03-26,13271.0,1,0
+georgia,terrell,2020-03-27,13273.0,6,2
+georgia,thomas,2020-03-27,13275.0,3,0
+georgia,tift,2020-03-27,13277.0,13,0
+georgia,toombs,2020-03-27,13279.0,1,0
+georgia,troup,2020-03-27,13285.0,11,1
+georgia,turner,2020-03-27,13287.0,2,0
+georgia,twiggs,2020-03-27,13289.0,2,0
+georgia,unknown,2020-03-27,,217,23
+georgia,upson,2020-03-27,13293.0,2,0
+georgia,walton,2020-03-26,13297.0,1,0
+georgia,ware,2020-03-27,13299.0,2,0
+georgia,washington,2020-03-27,13303.0,2,0
+georgia,white,2020-03-27,13311.0,1,0
+georgia,whitfield,2020-03-27,13313.0,6,0
+georgia,wilkes,2020-03-27,13317.0,1,0
+georgia,worth,2020-03-27,13321.0,7,1
+guam,unknown,2020-03-27,,53,1
+hawaii,hawaii,2020-03-27,15001.0,7,0
+hawaii,honolulu,2020-03-27,15003.0,87,0
+hawaii,kauai,2020-03-27,15007.0,5,0
+hawaii,maui,2020-03-27,15009.0,16,0
+hawaii,unknown,2020-03-27,,20,0
+idaho,ada,2020-03-27,16001.0,76,0
+idaho,bannock,2020-03-27,16005.0,3,0
+idaho,bingham,2020-03-27,16011.0,1,0
+idaho,blaine,2020-03-27,16013.0,99,2
+idaho,canyon,2020-03-27,16027.0,23,1
+idaho,cassia,2020-03-27,16031.0,1,0
+idaho,custer,2020-03-27,16037.0,1,0
+idaho,fremont,2020-03-27,16043.0,1,0
+idaho,gem,2020-03-27,16045.0,1,0
+idaho,idaho,2020-03-27,16049.0,1,0
+idaho,jefferson,2020-03-27,16051.0,2,0
+idaho,kootenai,2020-03-27,16055.0,11,0
+idaho,madison,2020-03-27,16065.0,2,0
+idaho,nez perce,2020-03-27,16069.0,4,1
+idaho,payette,2020-03-27,16075.0,1,0
+idaho,teton,2020-03-27,16081.0,2,0
+idaho,twin falls,2020-03-27,16083.0,2,0
+idaho,unknown,2020-03-27,,1,0
+idaho,valley,2020-03-27,16085.0,1,0
+illinois,adams,2020-03-27,17001.0,1,0
+illinois,bureau,2020-03-27,17011.0,1,0
+illinois,champaign,2020-03-27,17019.0,10,0
+illinois,christian,2020-03-27,17021.0,1,0
+illinois,clinton,2020-03-27,17027.0,5,0
+illinois,cook,2020-03-27,17031.0,2239,20
+illinois,cumberland,2020-03-27,17035.0,1,0
+illinois,dekalb,2020-03-27,17037.0,4,0
+illinois,douglas,2020-03-27,17041.0,1,0
+illinois,dupage,2020-03-27,17043.0,199,6
+illinois,franklin,2020-03-27,17055.0,1,0
+illinois,grundy,2020-03-27,17063.0,2,0
+illinois,henry,2020-03-27,17073.0,1,0
+illinois,iroquois,2020-03-27,17075.0,1,0
+illinois,jackson,2020-03-27,17077.0,1,0
+illinois,jo daviess,2020-03-27,17085.0,1,0
+illinois,kane,2020-03-27,17089.0,77,2
+illinois,kankakee,2020-03-27,17091.0,17,0
+illinois,kendall,2020-03-27,17093.0,8,0
+illinois,lake,2020-03-27,17097.0,230,2
+illinois,lasalle,2020-03-27,17099.0,3,0
+illinois,livingston,2020-03-27,17105.0,2,0
+illinois,logan,2020-03-25,17107.0,1,0
+illinois,madison,2020-03-27,17119.0,8,0
+illinois,marshall,2020-03-27,17123.0,1,0
+illinois,mchenry,2020-03-27,17111.0,45,1
+illinois,mclean,2020-03-27,17113.0,10,1
+illinois,monroe,2020-03-27,17133.0,3,0
+illinois,morgan,2020-03-27,17137.0,1,0
+illinois,peoria,2020-03-27,17143.0,6,0
+illinois,rock island,2020-03-27,17161.0,4,0
+illinois,sangamon,2020-03-27,17167.0,7,1
+illinois,st. clair,2020-03-27,17163.0,15,1
+illinois,stephenson,2020-03-27,17177.0,2,0
+illinois,tazewell,2020-03-27,17179.0,2,0
+illinois,unknown,2020-03-27,,58,0
+illinois,washington,2020-03-27,17189.0,1,0
+illinois,whiteside,2020-03-27,17195.0,2,0
+illinois,will,2020-03-27,17197.0,104,3
+illinois,williamson,2020-03-27,17199.0,1,0
+illinois,winnebago,2020-03-27,17201.0,8,0
+illinois,woodford,2020-03-27,17203.0,3,0
+indiana,adams,2020-03-27,18001.0,1,0
+indiana,allen,2020-03-27,18003.0,21,1
+indiana,bartholomew,2020-03-27,18005.0,6,0
+indiana,boone,2020-03-27,18011.0,7,0
+indiana,brown,2020-03-27,18013.0,2,0
+indiana,carroll,2020-03-27,18015.0,1,0
+indiana,clark,2020-03-27,18019.0,12,0
+indiana,clinton,2020-03-27,18023.0,1,0
+indiana,dearborn,2020-03-27,18029.0,4,1
+indiana,decatur,2020-03-27,18031.0,26,0
+indiana,dekalb,2020-03-27,18033.0,1,0
+indiana,delaware,2020-03-27,18035.0,8,1
+indiana,dubois,2020-03-27,18037.0,1,0
+indiana,elkhart,2020-03-27,18039.0,9,0
+indiana,fayette,2020-03-27,18041.0,3,0
+indiana,floyd,2020-03-27,18043.0,11,0
+indiana,fountain,2020-03-27,18045.0,1,0
+indiana,franklin,2020-03-27,18047.0,22,1
+indiana,fulton,2020-03-27,18049.0,1,0
+indiana,gibson,2020-03-27,18051.0,3,0
+indiana,grant,2020-03-27,18053.0,5,0
+indiana,hamilton,2020-03-27,18057.0,53,0
+indiana,hancock,2020-03-27,18059.0,14,1
+indiana,harrison,2020-03-27,18061.0,4,0
+indiana,hendricks,2020-03-27,18063.0,28,2
+indiana,henry,2020-03-27,18065.0,1,0
+indiana,howard,2020-03-27,18067.0,7,1
+indiana,huntington,2020-03-27,18069.0,1,0
+indiana,jackson,2020-03-27,18071.0,4,0
+indiana,jasper,2020-03-27,18073.0,4,1
+indiana,jennings,2020-03-27,18079.0,5,0
+indiana,johnson,2020-03-27,18081.0,42,3
+indiana,kosciusko,2020-03-27,18085.0,1,0
+indiana,lagrange,2020-03-27,18087.0,2,0
+indiana,lake,2020-03-27,18089.0,47,0
+indiana,laporte,2020-03-27,18091.0,2,0
+indiana,lawrence,2020-03-27,18093.0,5,0
+indiana,madison,2020-03-27,18095.0,7,1
+indiana,marion,2020-03-27,18097.0,484,8
+indiana,marshall,2020-03-27,18099.0,4,0
+indiana,miami,2020-03-27,18103.0,1,0
+indiana,monroe,2020-03-27,18105.0,9,0
+indiana,montgomery,2020-03-27,18107.0,3,0
+indiana,morgan,2020-03-27,18109.0,10,0
+indiana,noble,2020-03-27,18113.0,1,0
+indiana,ohio,2020-03-27,18115.0,1,0
+indiana,orange,2020-03-27,18117.0,1,0
+indiana,owen,2020-03-27,18119.0,5,0
+indiana,porter,2020-03-27,18127.0,6,0
+indiana,posey,2020-03-27,18129.0,1,0
+indiana,putnam,2020-03-27,18133.0,2,1
+indiana,randolph,2020-03-27,18135.0,1,0
+indiana,ripley,2020-03-27,18137.0,14,0
+indiana,rush,2020-03-27,18139.0,3,0
+indiana,scott,2020-03-27,18143.0,1,1
+indiana,shelby,2020-03-27,18145.0,6,0
+indiana,st. joseph,2020-03-27,18141.0,27,1
+indiana,starke,2020-03-27,18149.0,1,0
+indiana,sullivan,2020-03-27,18153.0,1,0
+indiana,tippecanoe,2020-03-27,18157.0,8,1
+indiana,tipton,2020-03-27,18159.0,2,0
+indiana,vanderburgh,2020-03-27,18163.0,6,0
+indiana,vigo,2020-03-27,18167.0,4,1
+indiana,warren,2020-03-27,18171.0,1,0
+indiana,warrick,2020-03-27,18173.0,3,0
+indiana,washington,2020-03-27,18175.0,4,0
+indiana,wayne,2020-03-27,18177.0,1,0
+indiana,wells,2020-03-27,18179.0,1,0
+indiana,whitley,2020-03-27,18183.0,1,0
+iowa,adair,2020-03-27,19001.0,1,0
+iowa,allamakee,2020-03-27,19005.0,7,1
+iowa,appanoose,2020-03-27,19007.0,1,0
+iowa,benton,2020-03-27,19011.0,3,0
+iowa,black hawk,2020-03-27,19013.0,7,0
+iowa,buchanan,2020-03-27,19019.0,1,0
+iowa,butler,2020-03-27,19023.0,1,0
+iowa,carroll,2020-03-27,19027.0,1,0
+iowa,cedar,2020-03-27,19031.0,5,0
+iowa,cerro gordo,2020-03-27,19033.0,3,0
+iowa,clayton,2020-03-27,19043.0,1,0
+iowa,clinton,2020-03-27,19045.0,1,0
+iowa,dallas,2020-03-27,19049.0,9,0
+iowa,des moines,2020-03-27,19057.0,1,0
+iowa,dickinson,2020-03-27,19059.0,1,0
+iowa,dubuque,2020-03-27,19061.0,8,1
+iowa,fayette,2020-03-27,19065.0,1,0
+iowa,hancock,2020-03-27,19081.0,3,0
+iowa,hardin,2020-03-27,19083.0,1,0
+iowa,harrison,2020-03-27,19085.0,7,0
+iowa,henry,2020-03-27,19087.0,2,0
+iowa,iowa,2020-03-27,19095.0,1,0
+iowa,jasper,2020-03-27,19099.0,2,0
+iowa,johnson,2020-03-27,19103.0,58,0
+iowa,kossuth,2020-03-27,19109.0,1,0
+iowa,linn,2020-03-27,19113.0,22,0
+iowa,mahaska,2020-03-27,19123.0,2,0
+iowa,marshall,2020-03-27,19127.0,1,0
+iowa,monona,2020-03-27,19133.0,2,0
+iowa,montgomery,2020-03-27,19137.0,1,0
+iowa,muscatine,2020-03-27,19139.0,8,0
+iowa,page,2020-03-27,19145.0,2,0
+iowa,polk,2020-03-27,19153.0,28,0
+iowa,pottawattamie,2020-03-27,19155.0,4,0
+iowa,poweshiek,2020-03-27,19157.0,4,1
+iowa,scott,2020-03-27,19163.0,7,0
+iowa,sioux,2020-03-27,19167.0,2,0
+iowa,story,2020-03-27,19169.0,2,0
+iowa,tama,2020-03-27,19171.0,5,0
+iowa,wapello,2020-03-27,19179.0,1,0
+iowa,warren,2020-03-27,19181.0,1,0
+iowa,washington,2020-03-27,19183.0,11,0
+iowa,webster,2020-03-27,19187.0,1,0
+iowa,winneshiek,2020-03-27,19191.0,2,0
+iowa,woodbury,2020-03-27,19193.0,3,0
+iowa,wright,2020-03-27,19197.0,1,0
+kansas,bourbon,2020-03-27,20011.0,3,0
+kansas,butler,2020-03-27,20015.0,3,0
+kansas,cherokee,2020-03-27,20021.0,2,0
+kansas,clay,2020-03-27,20027.0,1,0
+kansas,coffey,2020-03-27,20031.0,1,0
+kansas,crawford,2020-03-27,20037.0,3,0
+kansas,doniphan,2020-03-27,20043.0,1,0
+kansas,douglas,2020-03-27,20045.0,18,0
+kansas,ford,2020-03-27,20057.0,1,0
+kansas,franklin,2020-03-27,20059.0,2,0
+kansas,gove,2020-03-27,20063.0,1,0
+kansas,harvey,2020-03-27,20079.0,1,0
+kansas,jackson,2020-03-27,20085.0,1,0
+kansas,jefferson,2020-03-27,20087.0,1,0
+kansas,johnson,2020-03-27,20091.0,66,1
+kansas,leavenworth,2020-03-27,20103.0,12,0
+kansas,linn,2020-03-27,20107.0,4,0
+kansas,lyon,2020-03-27,20111.0,5,0
+kansas,mcpherson,2020-03-27,20113.0,1,0
+kansas,mitchell,2020-03-27,20123.0,3,0
+kansas,morris,2020-03-27,20127.0,2,0
+kansas,neosho,2020-03-27,20133.0,1,0
+kansas,osage,2020-03-27,20139.0,1,0
+kansas,ottawa,2020-03-27,20143.0,1,0
+kansas,pottawatomie,2020-03-27,20149.0,1,0
+kansas,reno,2020-03-27,20155.0,5,0
+kansas,riley,2020-03-27,20161.0,2,0
+kansas,sedgwick,2020-03-27,20173.0,20,0
+kansas,shawnee,2020-03-27,20177.0,5,0
+kansas,sumner,2020-03-27,20191.0,1,0
+kansas,woodson,2020-03-27,20207.0,1,0
+kansas,wyandotte,2020-03-27,20209.0,43,3
+kentucky,allen,2020-03-27,21003.0,1,0
+kentucky,anderson,2020-03-27,21005.0,2,1
+kentucky,boone,2020-03-27,21015.0,3,0
+kentucky,bourbon,2020-03-27,21017.0,2,1
+kentucky,breathitt,2020-03-27,21025.0,2,0
+kentucky,bullitt,2020-03-27,21029.0,2,0
+kentucky,calloway,2020-03-27,21035.0,2,0
+kentucky,campbell,2020-03-27,21037.0,2,0
+kentucky,christian,2020-03-27,21047.0,6,0
+kentucky,clark,2020-03-27,21049.0,5,0
+kentucky,daviess,2020-03-27,21059.0,15,0
+kentucky,fayette,2020-03-27,21067.0,37,1
+kentucky,franklin,2020-03-27,21073.0,3,0
+kentucky,grayson,2020-03-27,21085.0,2,0
+kentucky,hardin,2020-03-27,21093.0,5,0
+kentucky,harrison,2020-03-27,21097.0,11,0
+kentucky,henderson,2020-03-27,21101.0,5,0
+kentucky,hopkins,2020-03-27,21107.0,1,1
+kentucky,jefferson,2020-03-27,21111.0,76,4
+kentucky,jessamine,2020-03-27,21113.0,10,0
+kentucky,kenton,2020-03-27,21117.0,15,0
+kentucky,larue,2020-03-27,21123.0,1,0
+kentucky,laurel,2020-03-27,21125.0,1,0
+kentucky,logan,2020-03-27,21141.0,2,0
+kentucky,lyon,2020-03-27,21143.0,1,0
+kentucky,madison,2020-03-27,21151.0,5,0
+kentucky,martin,2020-03-27,21159.0,1,0
+kentucky,mason,2020-03-27,21161.0,1,0
+kentucky,mccracken,2020-03-27,21145.0,2,0
+kentucky,mccreary,2020-03-27,21147.0,1,0
+kentucky,menifee,2020-03-27,21165.0,2,0
+kentucky,mercer,2020-03-27,21167.0,1,0
+kentucky,montgomery,2020-03-27,21173.0,2,0
+kentucky,muhlenberg,2020-03-27,21177.0,2,0
+kentucky,nelson,2020-03-27,21179.0,2,0
+kentucky,oldham,2020-03-27,21185.0,3,0
+kentucky,pulaski,2020-03-27,21199.0,7,0
+kentucky,scott,2020-03-27,21209.0,3,0
+kentucky,simpson,2020-03-27,21213.0,2,0
+kentucky,spencer,2020-03-27,21215.0,1,0
+kentucky,union,2020-03-27,21225.0,1,0
+kentucky,unknown,2020-03-27,,45,0
+kentucky,warren,2020-03-27,21227.0,8,0
+kentucky,wayne,2020-03-27,21231.0,1,0
+kentucky,webster,2020-03-27,21233.0,1,0
+kentucky,woodford,2020-03-27,21239.0,3,0
+louisiana,acadia,2020-03-27,22001.0,8,1
+louisiana,allen,2020-03-27,22003.0,5,0
+louisiana,ascension,2020-03-27,22005.0,91,1
+louisiana,assumption,2020-03-27,22007.0,8,0
+louisiana,avoyelles,2020-03-27,22009.0,10,0
+louisiana,beauregard,2020-03-27,22011.0,4,0
+louisiana,bienville,2020-03-27,22013.0,1,1
+louisiana,bossier,2020-03-27,22015.0,37,0
+louisiana,caddo,2020-03-27,22017.0,140,2
+louisiana,calcasieu,2020-03-27,22019.0,22,1
+louisiana,catahoula,2020-03-27,22025.0,1,1
+louisiana,claiborne,2020-03-27,22027.0,3,0
+louisiana,de soto,2020-03-27,22031.0,13,1
+louisiana,east baton rouge,2020-03-27,22033.0,124,4
+louisiana,east feliciana,2020-03-27,22037.0,5,0
+louisiana,evangeline,2020-03-27,22039.0,4,0
+louisiana,grant,2020-03-27,22043.0,1,0
+louisiana,iberia,2020-03-27,22045.0,4,0
+louisiana,iberville,2020-03-27,22047.0,20,1
+louisiana,jackson,2020-03-27,22049.0,3,0
+louisiana,jefferson,2020-03-27,22051.0,548,24
+louisiana,jefferson davis,2020-03-27,22053.0,1,0
+louisiana,lafayette,2020-03-27,22055.0,44,0
+louisiana,lafourche,2020-03-27,22057.0,30,2
+louisiana,lasalle,2020-03-27,22059.0,1,0
+louisiana,lincoln,2020-03-27,22061.0,7,0
+louisiana,livingston,2020-03-27,22063.0,11,0
+louisiana,madison,2020-03-27,22065.0,1,0
+louisiana,morehouse,2020-03-27,22067.0,3,0
+louisiana,natchitoches,2020-03-27,22069.0,2,0
+louisiana,orleans,2020-03-27,22071.0,1170,57
+louisiana,ouachita,2020-03-27,22073.0,25,1
+louisiana,plaquemines,2020-03-27,22075.0,16,2
+louisiana,pointe coupee,2020-03-27,22077.0,1,0
+louisiana,rapides,2020-03-27,22079.0,26,1
+louisiana,richland,2020-03-27,22083.0,2,0
+louisiana,st. bernard,2020-03-27,22087.0,31,1
+louisiana,st. charles,2020-03-27,22089.0,23,2
+louisiana,st. james,2020-03-27,22093.0,40,3
+louisiana,st. john the baptist,2020-03-27,22095.0,41,3
+louisiana,st. landry,2020-03-27,22097.0,10,0
+louisiana,st. martin,2020-03-27,22099.0,10,3
+louisiana,st. mary,2020-03-27,22101.0,6,0
+louisiana,st. tammany,2020-03-27,22103.0,111,2
+louisiana,tangipahoa,2020-03-27,22105.0,7,0
+louisiana,terrebonne,2020-03-27,22109.0,23,1
+louisiana,union,2020-03-27,22111.0,4,0
+louisiana,unknown,2020-03-27,,16,1
+louisiana,vermilion,2020-03-27,22113.0,2,0
+louisiana,vernon,2020-03-27,22115.0,2,0
+louisiana,washington,2020-03-27,22117.0,8,1
+louisiana,webster,2020-03-27,22119.0,9,1
+louisiana,west baton rouge,2020-03-27,22121.0,11,1
+louisiana,west feliciana,2020-03-27,22125.0,1,0
+louisiana,winn,2020-03-27,22127.0,1,0
+maine,androscoggin,2020-03-27,23001.0,6,0
+maine,cumberland,2020-03-27,23005.0,92,1
+maine,franklin,2020-03-27,23007.0,1,0
+maine,kennebec,2020-03-27,23011.0,6,0
+maine,knox,2020-03-27,23013.0,2,0
+maine,lincoln,2020-03-27,23015.0,5,0
+maine,oxford,2020-03-27,23017.0,8,0
+maine,penobscot,2020-03-27,23019.0,6,0
+maine,sagadahoc,2020-03-27,23023.0,4,0
+maine,unknown,2020-03-27,,5,0
+maine,waldo,2020-03-27,23027.0,2,0
+maine,york,2020-03-27,23031.0,33,0
+maryland,anne arundel,2020-03-27,24003.0,63,1
+maryland,baltimore,2020-03-27,24005.0,103,1
+maryland,baltimore city,2020-03-27,24510.0,103,0
+maryland,calvert,2020-03-27,24009.0,9,0
+maryland,caroline,2020-03-27,24011.0,1,0
+maryland,carroll,2020-03-27,24013.0,9,0
+maryland,cecil,2020-03-27,24015.0,9,0
+maryland,charles,2020-03-27,24017.0,17,0
+maryland,frederick,2020-03-27,24021.0,15,0
+maryland,garrett,2020-03-27,24023.0,3,0
+maryland,harford,2020-03-27,24025.0,18,0
+maryland,howard,2020-03-27,24027.0,62,0
+maryland,kent,2020-03-27,24029.0,2,0
+maryland,montgomery,2020-03-27,24031.0,208,1
+maryland,prince george's,2020-03-27,24033.0,148,2
+maryland,queen anne's,2020-03-27,24035.0,1,0
+maryland,somerset,2020-03-27,24039.0,1,0
+maryland,st. mary's,2020-03-27,24037.0,4,0
+maryland,talbot,2020-03-27,24041.0,1,0
+maryland,washington,2020-03-27,24043.0,5,0
+maryland,wicomico,2020-03-27,24045.0,6,0
+maryland,worcester,2020-03-27,24047.0,2,0
+massachusetts,barnstable,2020-03-27,25001.0,100,2
+massachusetts,berkshire,2020-03-27,25003.0,105,4
+massachusetts,bristol,2020-03-27,25005.0,129,1
+massachusetts,dukes,2020-03-27,25007.0,1,0
+massachusetts,essex,2020-03-27,25009.0,350,2
+massachusetts,franklin,2020-03-27,25011.0,24,2
+massachusetts,hampden,2020-03-27,25013.0,90,2
+massachusetts,hampshire,2020-03-27,25015.0,20,0
+massachusetts,middlesex,2020-03-27,25017.0,685,6
+massachusetts,nantucket,2020-03-27,25019.0,2,0
+massachusetts,norfolk,2020-03-27,25021.0,393,6
+massachusetts,plymouth,2020-03-27,25023.0,187,0
+massachusetts,suffolk,2020-03-27,25025.0,631,3
+massachusetts,unknown,2020-03-27,,304,4
+massachusetts,worcester,2020-03-27,25027.0,219,3
+michigan,allegan,2020-03-27,26005.0,1,0
+michigan,barry,2020-03-27,26015.0,1,0
+michigan,bay,2020-03-27,26017.0,4,0
+michigan,berrien,2020-03-27,26021.0,18,0
+michigan,calhoun,2020-03-27,26025.0,9,0
+michigan,cass,2020-03-27,26027.0,1,0
+michigan,charlevoix,2020-03-27,26029.0,4,0
+michigan,chippewa,2020-03-27,26033.0,1,0
+michigan,clare,2020-03-27,26035.0,1,0
+michigan,clinton,2020-03-27,26037.0,8,0
+michigan,crawford,2020-03-27,26039.0,1,0
+michigan,dickinson,2020-03-27,26043.0,1,0
+michigan,eaton,2020-03-27,26045.0,8,0
+michigan,emmet,2020-03-27,26047.0,3,0
+michigan,genesee,2020-03-27,26049.0,91,4
+michigan,gladwin,2020-03-27,26051.0,2,0
+michigan,gogebic,2020-03-27,26053.0,1,1
+michigan,grand traverse,2020-03-27,26055.0,3,0
+michigan,gratiot,2020-03-27,26057.0,1,0
+michigan,hillsdale,2020-03-27,26059.0,6,0
+michigan,huron,2020-03-27,26063.0,1,0
+michigan,ingham,2020-03-27,26065.0,26,1
+michigan,ionia,2020-03-27,26067.0,2,0
+michigan,iosco,2020-03-27,26069.0,1,0
+michigan,isabella,2020-03-27,26073.0,4,0
+michigan,jackson,2020-03-27,26075.0,17,0
+michigan,kalamazoo,2020-03-27,26077.0,11,0
+michigan,kalkaska,2020-03-27,26079.0,4,0
+michigan,kent,2020-03-27,26081.0,45,1
+michigan,lapeer,2020-03-27,26087.0,4,0
+michigan,leelanau,2020-03-27,26089.0,1,0
+michigan,lenawee,2020-03-27,26091.0,8,0
+michigan,livingston,2020-03-27,26093.0,31,1
+michigan,luce,2020-03-27,26095.0,1,0
+michigan,macomb,2020-03-27,26099.0,404,14
+michigan,manistee,2020-03-27,26101.0,1,0
+michigan,marquette,2020-03-27,26103.0,1,0
+michigan,mecosta,2020-03-27,26107.0,1,1
+michigan,midland,2020-03-27,26111.0,8,0
+michigan,missaukee,2020-03-27,26113.0,1,1
+michigan,monroe,2020-03-27,26115.0,28,0
+michigan,montcalm,2020-03-27,26117.0,3,0
+michigan,muskegon,2020-03-27,26121.0,6,2
+michigan,newaygo,2020-03-27,26123.0,2,0
+michigan,oakland,2020-03-27,26125.0,824,26
+michigan,oceana,2020-03-27,26127.0,1,0
+michigan,ogemaw,2020-03-27,26129.0,1,0
+michigan,otsego,2020-03-27,26137.0,7,0
+michigan,ottawa,2020-03-27,26139.0,21,0
+michigan,roscommon,2020-03-27,26143.0,1,0
+michigan,saginaw,2020-03-27,26145.0,14,0
+michigan,sanilac,2020-03-27,26151.0,2,0
+michigan,shiawassee,2020-03-27,26155.0,2,0
+michigan,st. clair,2020-03-27,26147.0,15,0
+michigan,tuscola,2020-03-27,26157.0,2,1
+michigan,unknown,2020-03-27,,23,0
+michigan,van buren,2020-03-27,26159.0,3,0
+michigan,washtenaw,2020-03-27,26161.0,150,3
+michigan,wayne,2020-03-27,26163.0,1810,37
+michigan,wexford,2020-03-27,26165.0,1,0
+minnesota,anoka,2020-03-27,27003.0,10,0
+minnesota,beltrami,2020-03-27,27007.0,1,0
+minnesota,benton,2020-03-27,27009.0,1,0
+minnesota,big stone,2020-03-27,27011.0,1,0
+minnesota,blue earth,2020-03-27,27013.0,7,0
+minnesota,carver,2020-03-27,27019.0,8,0
+minnesota,cass,2020-03-27,27021.0,1,0
+minnesota,chisago,2020-03-27,27025.0,2,0
+minnesota,clay,2020-03-27,27027.0,4,0
+minnesota,dakota,2020-03-27,27037.0,28,0
+minnesota,dodge,2020-03-27,27039.0,5,0
+minnesota,faribault,2020-03-27,27043.0,1,0
+minnesota,fillmore,2020-03-27,27045.0,3,0
+minnesota,goodhue,2020-03-27,27049.0,2,0
+minnesota,hennepin,2020-03-27,27053.0,141,1
+minnesota,jackson,2020-03-27,27063.0,1,0
+minnesota,kandiyohi,2020-03-27,27067.0,1,0
+minnesota,lac qui parle,2020-03-27,27073.0,1,0
+minnesota,le sueur,2020-03-27,27079.0,10,0
+minnesota,lincoln,2020-03-27,27081.0,1,0
+minnesota,mahnomen,2020-03-27,27087.0,1,0
+minnesota,martin,2020-03-27,27091.0,18,1
+minnesota,mower,2020-03-27,27099.0,10,0
+minnesota,nicollet,2020-03-27,27103.0,3,0
+minnesota,olmsted,2020-03-27,27109.0,34,0
+minnesota,ramsey,2020-03-27,27123.0,34,1
+minnesota,renville,2020-03-27,27129.0,1,0
+minnesota,rice,2020-03-27,27131.0,2,0
+minnesota,scott,2020-03-27,27139.0,7,0
+minnesota,sherburne,2020-03-27,27141.0,3,0
+minnesota,sibley,2020-03-27,27143.0,1,0
+minnesota,st. louis,2020-03-27,27137.0,5,0
+minnesota,stearns,2020-03-27,27145.0,5,0
+minnesota,steele,2020-03-27,27147.0,5,0
+minnesota,unknown,2020-03-27,,1,1
+minnesota,wabasha,2020-03-27,27157.0,4,0
+minnesota,waseca,2020-03-27,27161.0,3,0
+minnesota,washington,2020-03-27,27163.0,22,0
+minnesota,wilkin,2020-03-27,27167.0,1,0
+minnesota,winona,2020-03-27,27169.0,4,0
+minnesota,wright,2020-03-27,27171.0,5,0
+mississippi,adams,2020-03-27,28001.0,3,0
+mississippi,amite,2020-03-26,28005.0,1,0
+mississippi,attala,2020-03-27,28007.0,8,0
+mississippi,benton,2020-03-27,28009.0,2,0
+mississippi,bolivar,2020-03-27,28011.0,9,0
+mississippi,calhoun,2020-03-27,28013.0,3,0
+mississippi,chickasaw,2020-03-27,28017.0,9,0
+mississippi,choctaw,2020-03-27,28019.0,4,0
+mississippi,clay,2020-03-27,28025.0,2,0
+mississippi,coahoma,2020-03-27,28027.0,18,0
+mississippi,copiah,2020-03-27,28029.0,8,0
+mississippi,desoto,2020-03-27,28033.0,63,0
+mississippi,forrest,2020-03-27,28035.0,16,0
+mississippi,franklin,2020-03-27,28037.0,3,0
+mississippi,george,2020-03-27,28039.0,1,0
+mississippi,grenada,2020-03-27,28043.0,2,0
+mississippi,hancock,2020-03-27,28045.0,9,1
+mississippi,harrison,2020-03-27,28047.0,34,1
+mississippi,hinds,2020-03-27,28049.0,50,0
+mississippi,holmes,2020-03-27,28051.0,10,1
+mississippi,humphreys,2020-03-27,28053.0,1,0
+mississippi,itawamba,2020-03-27,28057.0,3,0
+mississippi,jackson,2020-03-27,28059.0,24,0
+mississippi,jefferson,2020-03-27,28063.0,1,0
+mississippi,jones,2020-03-27,28067.0,1,0
+mississippi,kemper,2020-03-27,28069.0,1,0
+mississippi,lafayette,2020-03-27,28071.0,11,0
+mississippi,lamar,2020-03-27,28073.0,4,0
+mississippi,lauderdale,2020-03-27,28075.0,10,0
+mississippi,lawrence,2020-03-27,28077.0,5,0
+mississippi,leake,2020-03-27,28079.0,4,0
+mississippi,lee,2020-03-27,28081.0,15,0
+mississippi,leflore,2020-03-27,28083.0,13,0
+mississippi,lincoln,2020-03-27,28085.0,6,0
+mississippi,lowndes,2020-03-27,28087.0,9,0
+mississippi,madison,2020-03-27,28089.0,25,0
+mississippi,marion,2020-03-27,28091.0,1,0
+mississippi,marshall,2020-03-27,28093.0,9,0
+mississippi,monroe,2020-03-27,28095.0,3,0
+mississippi,montgomery,2020-03-27,28097.0,4,0
+mississippi,neshoba,2020-03-27,28099.0,1,0
+mississippi,newton,2020-03-27,28101.0,1,0
+mississippi,noxubee,2020-03-27,28103.0,1,0
+mississippi,oktibbeha,2020-03-27,28105.0,12,0
+mississippi,panola,2020-03-27,28107.0,4,0
+mississippi,pearl river,2020-03-27,28109.0,18,0
+mississippi,perry,2020-03-27,28111.0,2,0
+mississippi,pike,2020-03-27,28113.0,12,0
+mississippi,pontotoc,2020-03-27,28115.0,4,0
+mississippi,prentiss,2020-03-27,28117.0,1,0
+mississippi,quitman,2020-03-27,28119.0,3,0
+mississippi,rankin,2020-03-27,28121.0,29,1
+mississippi,scott,2020-03-27,28123.0,6,0
+mississippi,sharkey,2020-03-27,28125.0,1,0
+mississippi,simpson,2020-03-27,28127.0,1,0
+mississippi,smith,2020-03-27,28129.0,1,0
+mississippi,sunflower,2020-03-27,28133.0,5,0
+mississippi,tallahatchie,2020-03-27,28135.0,2,0
+mississippi,tate,2020-03-27,28137.0,8,0
+mississippi,tippah,2020-03-27,28139.0,15,1
+mississippi,tunica,2020-03-27,28143.0,6,1
+mississippi,union,2020-03-27,28145.0,3,0
+mississippi,unknown,2020-03-27,,6,0
+mississippi,walthall,2020-03-27,28147.0,4,0
+mississippi,washington,2020-03-27,28151.0,11,0
+mississippi,webster,2020-03-27,28155.0,3,1
+mississippi,wilkinson,2020-03-27,28157.0,9,1
+mississippi,winston,2020-03-27,28159.0,3,0
+mississippi,yalobusha,2020-03-27,28161.0,3,0
+mississippi,yazoo,2020-03-27,28163.0,4,0
+missouri,adair,2020-03-27,29001.0,2,0
+missouri,atchison,2020-03-27,29005.0,1,0
+missouri,barry,2020-03-27,29009.0,1,0
+missouri,bates,2020-03-27,29013.0,1,0
+missouri,benton,2020-03-27,29015.0,1,0
+missouri,bollinger,2020-03-27,29017.0,1,0
+missouri,boone,2020-03-27,29019.0,37,1
+missouri,buchanan,2020-03-27,29021.0,2,0
+missouri,callaway,2020-03-27,29027.0,3,0
+missouri,camden,2020-03-27,29029.0,1,0
+missouri,cape girardeau,2020-03-27,29031.0,6,0
+missouri,carter,2020-03-27,29035.0,1,0
+missouri,cass,2020-03-27,29037.0,8,0
+missouri,chariton,2020-03-27,29041.0,1,0
+missouri,christian,2020-03-27,29043.0,3,0
+missouri,clay,2020-03-27,29047.0,9,0
+missouri,clinton,2020-03-27,29049.0,1,0
+missouri,cole,2020-03-27,29051.0,10,0
+missouri,cooper,2020-03-27,29053.0,1,0
+missouri,dunklin,2020-03-27,29069.0,3,0
+missouri,franklin,2020-03-27,29071.0,4,0
+missouri,greene,2020-03-27,29077.0,31,3
+missouri,henry,2020-03-27,29083.0,1,0
+missouri,jackson,2020-03-27,29095.0,41,1
+missouri,jasper,2020-03-27,29097.0,2,0
+missouri,jefferson,2020-03-27,29099.0,15,0
+missouri,johnson,2020-03-27,29101.0,8,0
+missouri,kansas city,2020-03-27,,78,0
+missouri,lafayette,2020-03-27,29107.0,4,0
+missouri,lincoln,2020-03-27,29113.0,2,0
+missouri,mcdonald,2020-03-27,29119.0,1,0
+missouri,moniteau,2020-03-27,29135.0,2,0
+missouri,montgomery,2020-03-27,29139.0,3,0
+missouri,newton,2020-03-27,29145.0,3,0
+missouri,pemiscot,2020-03-27,29155.0,1,0
+missouri,perry,2020-03-27,29157.0,6,0
+missouri,pettis,2020-03-27,29159.0,1,0
+missouri,platte,2020-03-27,29165.0,5,0
+missouri,pulaski,2020-03-27,29169.0,4,0
+missouri,ralls,2020-03-27,29173.0,1,0
+missouri,randolph,2020-03-27,29175.0,1,0
+missouri,ray,2020-03-27,29177.0,1,0
+missouri,scott,2020-03-27,29201.0,1,0
+missouri,shelby,2020-03-27,29205.0,1,0
+missouri,st. charles,2020-03-27,29183.0,32,1
+missouri,st. francois,2020-03-27,29187.0,4,0
+missouri,st. louis,2020-03-27,29189.0,247,2
+missouri,st. louis city,2020-03-27,29510.0,72,1
+missouri,stoddard,2020-03-27,29207.0,1,0
+missouri,taney,2020-03-27,29213.0,1,0
+missouri,texas,2020-03-27,29215.0,1,0
+missouri,unknown,2020-03-27,,72,0
+missouri,wright,2020-03-27,29229.0,1,0
+montana,broadwater,2020-03-27,30007.0,2,0
+montana,cascade,2020-03-27,30013.0,7,0
+montana,flathead,2020-03-27,30029.0,6,0
+montana,gallatin,2020-03-27,30031.0,42,0
+montana,hill,2020-03-27,30041.0,1,0
+montana,jefferson,2020-03-27,30043.0,2,0
+montana,lake,2020-03-27,30047.0,1,0
+montana,lewis and clark,2020-03-27,30049.0,7,0
+montana,lincoln,2020-03-27,30053.0,3,1
+montana,madison,2020-03-27,30057.0,3,0
+montana,meagher,2020-03-27,30059.0,1,0
+montana,missoula,2020-03-27,30063.0,8,0
+montana,park,2020-03-27,30067.0,1,0
+montana,ravalli,2020-03-27,30081.0,1,0
+montana,roosevelt,2020-03-27,30085.0,1,0
+montana,silver bow,2020-03-27,30093.0,7,0
+montana,toole,2020-03-27,30101.0,5,0
+montana,yellowstone,2020-03-27,30111.0,23,0
+nebraska,adams,2020-03-27,31001.0,2,0
+nebraska,buffalo,2020-03-27,31019.0,4,0
+nebraska,cass,2020-03-27,31025.0,2,0
+nebraska,dawson,2020-03-27,31047.0,1,0
+nebraska,dodge,2020-03-27,31053.0,1,0
+nebraska,douglas,2020-03-27,31055.0,60,1
+nebraska,hall,2020-03-27,31079.0,2,1
+nebraska,hamilton,2020-03-27,31081.0,1,0
+nebraska,kearney,2020-03-27,31099.0,1,0
+nebraska,knox,2020-03-27,31107.0,2,0
+nebraska,lancaster,2020-03-27,31109.0,4,0
+nebraska,lincoln,2020-03-27,31111.0,3,0
+nebraska,madison,2020-03-27,31119.0,1,0
+nebraska,nemaha,2020-03-27,31127.0,1,0
+nebraska,sarpy,2020-03-27,31153.0,11,0
+nebraska,saunders,2020-03-27,31155.0,2,0
+nebraska,washington,2020-03-27,31177.0,5,0
+nevada,carson city,2020-03-27,32510.0,4,0
+nevada,clark,2020-03-27,32003.0,443,10
+nevada,douglas,2020-03-27,32005.0,4,0
+nevada,elko,2020-03-27,32007.0,2,0
+nevada,lyon,2020-03-27,32019.0,1,0
+nevada,nye,2020-03-27,32023.0,1,0
+nevada,unknown,2020-03-27,,107,4
+nevada,washoe,2020-03-27,32031.0,75,0
+new hampshire,belknap,2020-03-27,33001.0,9,0
+new hampshire,carroll,2020-03-27,33003.0,8,0
+new hampshire,cheshire,2020-03-27,33005.0,2,0
+new hampshire,grafton,2020-03-27,33009.0,26,0
+new hampshire,hillsborough,2020-03-27,33011.0,43,2
+new hampshire,merrimack,2020-03-27,33013.0,11,0
+new hampshire,rockingham,2020-03-27,33015.0,75,0
+new hampshire,strafford,2020-03-27,33017.0,11,0
+new hampshire,sullivan,2020-03-27,33019.0,2,0
+new jersey,atlantic,2020-03-27,34001.0,14,0
+new jersey,bergen,2020-03-27,34003.0,1505,28
+new jersey,burlington,2020-03-27,34005.0,88,3
+new jersey,camden,2020-03-27,34007.0,95,1
+new jersey,cape may,2020-03-27,34009.0,7,0
+new jersey,cumberland,2020-03-27,34011.0,9,1
+new jersey,essex,2020-03-27,34013.0,826,18
+new jersey,gloucester,2020-03-27,34015.0,40,1
+new jersey,hudson,2020-03-27,34017.0,594,4
+new jersey,hunterdon,2020-03-27,34019.0,52,0
+new jersey,mercer,2020-03-27,34021.0,131,0
+new jersey,middlesex,2020-03-27,34023.0,640,9
+new jersey,monmouth,2020-03-27,34025.0,634,10
+new jersey,morris,2020-03-27,34027.0,391,9
+new jersey,ocean,2020-03-27,34029.0,484,8
+new jersey,passaic,2020-03-27,34031.0,484,5
+new jersey,salem,2020-03-27,34033.0,3,0
+new jersey,somerset,2020-03-27,34035.0,222,7
+new jersey,sussex,2020-03-27,34037.0,65,0
+new jersey,union,2020-03-27,34039.0,519,3
+new jersey,unknown,2020-03-27,,1984,7
+new jersey,warren,2020-03-27,34041.0,38,1
+new mexico,bernalillo,2020-03-27,35001.0,82,0
+new mexico,chaves,2020-03-27,35005.0,4,0
+new mexico,cibola,2020-03-27,35006.0,2,0
+new mexico,curry,2020-03-27,35009.0,1,0
+new mexico,doña ana,2020-03-27,35013.0,16,0
+new mexico,eddy,2020-03-27,35015.0,2,1
+new mexico,lea,2020-03-27,35025.0,2,0
+new mexico,mckinley,2020-03-27,35031.0,5,0
+new mexico,rio arriba,2020-03-27,35039.0,3,0
+new mexico,roosevelt,2020-03-27,35041.0,1,0
+new mexico,san juan,2020-03-27,35045.0,17,0
+new mexico,san miguel,2020-03-27,35047.0,1,0
+new mexico,sandoval,2020-03-27,35043.0,15,0
+new mexico,santa fe,2020-03-27,35049.0,29,0
+new mexico,socorro,2020-03-27,35053.0,2,0
+new mexico,taos,2020-03-27,35055.0,8,0
+new mexico,valencia,2020-03-27,35061.0,1,0
+new york,albany,2020-03-27,36001.0,187,0
+new york,allegany,2020-03-27,36003.0,2,0
+new york,broome,2020-03-27,36007.0,18,3
+new york,cayuga,2020-03-27,36011.0,2,0
+new york,chautauqua,2020-03-27,36013.0,1,0
+new york,chemung,2020-03-27,36015.0,11,0
+new york,chenango,2020-03-27,36017.0,4,0
+new york,clinton,2020-03-27,36019.0,11,0
+new york,columbia,2020-03-27,36021.0,20,0
+new york,cortland,2020-03-27,36023.0,4,0
+new york,delaware,2020-03-27,36025.0,8,0
+new york,dutchess,2020-03-27,36027.0,225,2
+new york,erie,2020-03-27,36029.0,219,6
+new york,essex,2020-03-27,36031.0,4,0
+new york,franklin,2020-03-27,36033.0,2,0
+new york,fulton,2020-03-27,36035.0,1,0
+new york,genesee,2020-03-27,36037.0,6,0
+new york,greene,2020-03-27,36039.0,6,0
+new york,hamilton,2020-03-27,36041.0,2,0
+new york,herkimer,2020-03-27,36043.0,9,0
+new york,jefferson,2020-03-27,36045.0,3,0
+new york,livingston,2020-03-27,36051.0,3,0
+new york,madison,2020-03-27,36053.0,17,0
+new york,monroe,2020-03-27,36055.0,160,4
+new york,montgomery,2020-03-27,36057.0,5,0
+new york,nassau,2020-03-27,36059.0,4657,27
+new york,new york city,2020-03-27,,25399,450
+new york,niagara,2020-03-27,36063.0,23,0
+new york,oneida,2020-03-27,36065.0,13,0
+new york,onondaga,2020-03-27,36067.0,115,0
+new york,ontario,2020-03-27,36069.0,14,0
+new york,orange,2020-03-27,36071.0,910,3
+new york,orleans,2020-03-27,36073.0,3,0
+new york,oswego,2020-03-27,36075.0,4,0
+new york,otsego,2020-03-27,36077.0,5,0
+new york,putnam,2020-03-27,36079.0,111,0
+new york,rensselaer,2020-03-27,36083.0,35,0
+new york,rockland,2020-03-27,36087.0,1457,8
+new york,saratoga,2020-03-27,36091.0,82,0
+new york,schenectady,2020-03-27,36093.0,66,0
+new york,schoharie,2020-03-27,36095.0,3,0
+new york,st. lawrence,2020-03-27,36089.0,3,0
+new york,steuben,2020-03-27,36101.0,12,0
+new york,suffolk,2020-03-27,36103.0,3385,22
+new york,sullivan,2020-03-27,36105.0,64,0
+new york,tioga,2020-03-27,36107.0,2,0
+new york,tompkins,2020-03-27,36109.0,26,0
+new york,ulster,2020-03-27,36111.0,98,0
+new york,warren,2020-03-27,36113.0,8,0
+new york,washington,2020-03-27,36115.0,6,0
+new york,wayne,2020-03-27,36117.0,11,0
+new york,westchester,2020-03-27,36119.0,7187,10
+new york,wyoming,2020-03-27,36121.0,7,0
+north carolina,alamance,2020-03-27,37001.0,5,0
+north carolina,beaufort,2020-03-27,37013.0,3,0
+north carolina,bertie,2020-03-27,37015.0,3,0
+north carolina,brunswick,2020-03-27,37019.0,11,0
+north carolina,buncombe,2020-03-27,37021.0,15,0
+north carolina,burke,2020-03-27,37023.0,2,0
+north carolina,cabarrus,2020-03-27,37025.0,21,1
+north carolina,caldwell,2020-03-27,37027.0,3,0
+north carolina,carteret,2020-03-27,37031.0,5,0
+north carolina,catawba,2020-03-27,37035.0,7,0
+north carolina,chatham,2020-03-27,37037.0,11,0
+north carolina,cherokee,2020-03-27,37039.0,4,0
+north carolina,cleveland,2020-03-27,37045.0,2,0
+north carolina,craven,2020-03-27,37049.0,3,0
+north carolina,cumberland,2020-03-27,37051.0,8,0
+north carolina,davidson,2020-03-27,37057.0,4,0
+north carolina,davie,2020-03-27,37059.0,2,0
+north carolina,duplin,2020-03-27,37061.0,1,0
+north carolina,durham,2020-03-27,37063.0,83,0
+north carolina,forsyth,2020-03-27,37067.0,17,0
+north carolina,franklin,2020-03-27,37069.0,5,0
+north carolina,gaston,2020-03-27,37071.0,9,0
+north carolina,granville,2020-03-27,37077.0,3,0
+north carolina,greene,2020-03-27,37079.0,3,0
+north carolina,guilford,2020-03-27,37081.0,31,0
+north carolina,harnett,2020-03-27,37085.0,11,1
+north carolina,henderson,2020-03-27,37089.0,6,0
+north carolina,hertford,2020-03-27,37091.0,2,0
+north carolina,hoke,2020-03-27,37093.0,2,0
+north carolina,iredell,2020-03-27,37097.0,15,0
+north carolina,jackson,2020-03-25,37099.0,1,0
+north carolina,johnston,2020-03-27,37101.0,9,1
+north carolina,lee,2020-03-27,37105.0,2,0
+north carolina,lenoir,2020-03-27,37107.0,3,0
+north carolina,lincoln,2020-03-27,37109.0,1,0
+north carolina,mcdowell,2020-03-27,37111.0,3,0
+north carolina,mecklenburg,2020-03-27,37119.0,218,0
+north carolina,montgomery,2020-03-27,37123.0,3,0
+north carolina,moore,2020-03-27,37125.0,2,0
+north carolina,nash,2020-03-27,37127.0,2,0
+north carolina,new hanover,2020-03-27,37129.0,13,0
+north carolina,northampton,2020-03-27,37131.0,3,0
+north carolina,onslow,2020-03-27,37133.0,4,0
+north carolina,orange,2020-03-27,37135.0,24,0
+north carolina,pasquotank,2020-03-27,37139.0,1,0
+north carolina,person,2020-03-27,37145.0,1,0
+north carolina,pitt,2020-03-27,37147.0,10,0
+north carolina,randolph,2020-03-27,37151.0,5,0
+north carolina,richmond,2020-03-27,37153.0,1,0
+north carolina,robeson,2020-03-27,37155.0,2,0
+north carolina,rowan,2020-03-27,37159.0,10,0
+north carolina,sampson,2020-03-27,37163.0,1,0
+north carolina,scotland,2020-03-27,37165.0,1,0
+north carolina,stanly,2020-03-27,37167.0,2,0
+north carolina,surry,2020-03-27,37171.0,1,0
+north carolina,transylvania,2020-03-27,37175.0,2,0
+north carolina,union,2020-03-27,37179.0,27,0
+north carolina,vance,2020-03-27,37181.0,2,0
+north carolina,wake,2020-03-27,37183.0,121,0
+north carolina,watauga,2020-03-27,37189.0,4,0
+north carolina,wayne,2020-03-27,37191.0,3,0
+north carolina,wilson,2020-03-27,37195.0,7,0
+north dakota,burleigh,2020-03-27,38015.0,25,0
+north dakota,cass,2020-03-27,38017.0,11,1
+north dakota,dunn,2020-03-27,38025.0,1,0
+north dakota,foster,2020-03-27,38031.0,1,0
+north dakota,mchenry,2020-03-27,38049.0,1,0
+north dakota,mcintosh,2020-03-27,38051.0,1,0
+north dakota,morton,2020-03-27,38059.0,11,0
+north dakota,pierce,2020-03-27,38069.0,2,0
+north dakota,ramsey,2020-03-27,38071.0,3,0
+north dakota,stark,2020-03-27,38089.0,7,0
+north dakota,walsh,2020-03-27,38099.0,1,0
+north dakota,ward,2020-03-27,38101.0,4,0
+ohio,ashland,2020-03-27,39005.0,3,0
+ohio,ashtabula,2020-03-27,39007.0,5,0
+ohio,athens,2020-03-27,39009.0,1,0
+ohio,belmont,2020-03-27,39013.0,6,0
+ohio,butler,2020-03-27,39017.0,23,0
+ohio,carroll,2020-03-27,39019.0,3,0
+ohio,champaign,2020-03-27,39021.0,2,0
+ohio,clark,2020-03-27,39023.0,2,0
+ohio,clermont,2020-03-27,39025.0,6,0
+ohio,clinton,2020-03-27,39027.0,2,0
+ohio,columbiana,2020-03-27,39029.0,7,1
+ohio,coshocton,2020-03-27,39031.0,4,0
+ohio,crawford,2020-03-27,39033.0,1,0
+ohio,cuyahoga,2020-03-27,39035.0,330,2
+ohio,darke,2020-03-27,39037.0,1,0
+ohio,defiance,2020-03-27,39039.0,5,0
+ohio,delaware,2020-03-27,39041.0,22,0
+ohio,erie,2020-03-27,39043.0,3,1
+ohio,fairfield,2020-03-27,39045.0,8,0
+ohio,fayette,2020-03-27,39047.0,1,0
+ohio,franklin,2020-03-27,39049.0,152,2
+ohio,fulton,2020-03-27,39051.0,2,0
+ohio,gallia,2020-03-27,39053.0,1,1
+ohio,geauga,2020-03-27,39055.0,10,0
+ohio,greene,2020-03-27,39057.0,3,0
+ohio,hamilton,2020-03-27,39061.0,63,0
+ohio,hancock,2020-03-27,39063.0,2,0
+ohio,highland,2020-03-27,39071.0,1,0
+ohio,huron,2020-03-27,39077.0,3,0
+ohio,jefferson,2020-03-27,39081.0,1,0
+ohio,knox,2020-03-27,39083.0,2,0
+ohio,lake,2020-03-27,39085.0,27,1
+ohio,lawrence,2020-03-27,39087.0,1,0
+ohio,licking,2020-03-27,39089.0,10,0
+ohio,logan,2020-03-27,39091.0,2,0
+ohio,lorain,2020-03-27,39093.0,56,0
+ohio,lucas,2020-03-27,39095.0,50,2
+ohio,madison,2020-03-27,39097.0,4,0
+ohio,mahoning,2020-03-27,39099.0,68,2
+ohio,marion,2020-03-27,39101.0,5,0
+ohio,medina,2020-03-27,39103.0,32,0
+ohio,mercer,2020-03-27,39107.0,2,0
+ohio,miami,2020-03-27,39109.0,32,4
+ohio,montgomery,2020-03-27,39113.0,19,0
+ohio,muskingum,2020-03-27,39119.0,2,0
+ohio,pickaway,2020-03-27,39129.0,2,0
+ohio,portage,2020-03-27,39133.0,13,0
+ohio,richland,2020-03-27,39139.0,4,0
+ohio,sandusky,2020-03-27,39143.0,1,0
+ohio,seneca,2020-03-27,39147.0,2,0
+ohio,shelby,2020-03-27,39149.0,1,0
+ohio,stark,2020-03-27,39151.0,22,2
+ohio,summit,2020-03-27,39153.0,65,3
+ohio,trumbull,2020-03-27,39155.0,17,1
+ohio,tuscarawas,2020-03-27,39157.0,3,0
+ohio,union,2020-03-27,39159.0,3,0
+ohio,unknown,2020-03-26,,1,0
+ohio,warren,2020-03-27,39165.0,11,0
+ohio,washington,2020-03-27,39167.0,2,0
+ohio,wayne,2020-03-27,39169.0,3,0
+ohio,wood,2020-03-27,39173.0,9,0
+ohio,wyandot,2020-03-27,39175.0,1,0
+oklahoma,adair,2020-03-27,40001.0,3,0
+oklahoma,bryan,2020-03-27,40013.0,1,0
+oklahoma,caddo,2020-03-27,40015.0,1,0
+oklahoma,canadian,2020-03-27,40017.0,11,0
+oklahoma,carter,2020-03-27,40019.0,1,0
+oklahoma,cherokee,2020-03-27,40021.0,1,0
+oklahoma,choctaw,2020-03-27,40023.0,1,0
+oklahoma,cleveland,2020-03-27,40027.0,39,3
+oklahoma,comanche,2020-03-27,40031.0,6,0
+oklahoma,craig,2020-03-27,40035.0,1,0
+oklahoma,creek,2020-03-27,40037.0,14,1
+oklahoma,custer,2020-03-27,40039.0,3,0
+oklahoma,delaware,2020-03-27,40041.0,2,0
+oklahoma,garvin,2020-03-27,40049.0,2,0
+oklahoma,grady,2020-03-27,40051.0,2,0
+oklahoma,jackson,2020-03-27,40065.0,1,0
+oklahoma,kay,2020-03-27,40071.0,17,0
+oklahoma,latimer,2020-03-27,40077.0,1,0
+oklahoma,lincoln,2020-03-27,40081.0,3,0
+oklahoma,logan,2020-03-27,40083.0,3,0
+oklahoma,mayes,2020-03-27,40097.0,2,0
+oklahoma,mcclain,2020-03-27,40087.0,2,0
+oklahoma,muskogee,2020-03-27,40101.0,5,0
+oklahoma,noble,2020-03-27,40103.0,3,0
+oklahoma,oklahoma,2020-03-27,40109.0,94,2
+oklahoma,okmulgee,2020-03-27,40111.0,2,0
+oklahoma,osage,2020-03-27,40113.0,5,0
+oklahoma,ottawa,2020-03-27,40115.0,1,0
+oklahoma,pawnee,2020-03-27,40117.0,14,1
+oklahoma,payne,2020-03-27,40119.0,7,0
+oklahoma,pittsburg,2020-03-27,40121.0,2,0
+oklahoma,pontotoc,2020-03-27,40123.0,2,0
+oklahoma,pottawatomie,2020-03-27,40125.0,2,0
+oklahoma,sequoyah,2020-03-27,40135.0,1,0
+oklahoma,stephens,2020-03-27,40137.0,1,0
+oklahoma,tulsa,2020-03-27,40143.0,49,1
+oklahoma,wagoner,2020-03-27,40145.0,8,0
+oklahoma,washington,2020-03-27,40147.0,9,0
+oregon,benton,2020-03-27,41003.0,6,0
+oregon,clackamas,2020-03-27,41005.0,31,2
+oregon,clatsop,2020-03-27,41007.0,2,0
+oregon,columbia,2020-03-27,41009.0,1,0
+oregon,deschutes,2020-03-27,41017.0,18,0
+oregon,douglas,2020-03-27,41019.0,4,0
+oregon,grant,2020-03-27,41023.0,1,0
+oregon,hood river,2020-03-27,41027.0,1,0
+oregon,jackson,2020-03-27,41029.0,6,0
+oregon,josephine,2020-03-27,41033.0,4,0
+oregon,klamath,2020-03-27,41035.0,2,0
+oregon,lane,2020-03-27,41039.0,9,1
+oregon,lincoln,2020-03-27,41041.0,1,0
+oregon,linn,2020-03-27,41043.0,28,1
+oregon,marion,2020-03-27,41047.0,83,3
+oregon,morrow,2020-03-27,41049.0,1,0
+oregon,multnomah,2020-03-27,41051.0,67,2
+oregon,polk,2020-03-27,41053.0,10,0
+oregon,tillamook,2020-03-27,41057.0,1,0
+oregon,umatilla,2020-03-27,41059.0,3,0
+oregon,union,2020-03-27,41061.0,1,0
+oregon,wasco,2020-03-27,41065.0,2,0
+oregon,washington,2020-03-27,41067.0,122,3
+oregon,yamhill,2020-03-27,41071.0,11,0
+pennsylvania,adams,2020-03-27,42001.0,8,0
+pennsylvania,allegheny,2020-03-27,42003.0,158,2
+pennsylvania,armstrong,2020-03-27,42005.0,1,0
+pennsylvania,beaver,2020-03-27,42007.0,14,0
+pennsylvania,berks,2020-03-27,42011.0,65,0
+pennsylvania,blair,2020-03-27,42013.0,1,0
+pennsylvania,bradford,2020-03-27,42015.0,2,0
+pennsylvania,bucks,2020-03-27,42017.0,124,0
+pennsylvania,butler,2020-03-27,42019.0,26,1
+pennsylvania,cambria,2020-03-27,42021.0,1,0
+pennsylvania,carbon,2020-03-27,42025.0,2,0
+pennsylvania,centre,2020-03-27,42027.0,11,0
+pennsylvania,chester,2020-03-27,42029.0,107,0
+pennsylvania,clearfield,2020-03-27,42033.0,2,0
+pennsylvania,columbia,2020-03-27,42037.0,3,0
+pennsylvania,crawford,2020-03-27,42039.0,1,0
+pennsylvania,cumberland,2020-03-27,42041.0,16,0
+pennsylvania,dauphin,2020-03-27,42043.0,18,0
+pennsylvania,delaware,2020-03-27,42045.0,185,3
+pennsylvania,erie,2020-03-27,42049.0,7,0
+pennsylvania,fayette,2020-03-27,42051.0,9,0
+pennsylvania,franklin,2020-03-27,42055.0,5,0
+pennsylvania,greene,2020-03-27,42059.0,4,0
+pennsylvania,indiana,2020-03-27,42063.0,2,0
+pennsylvania,juniata,2020-03-27,42067.0,1,0
+pennsylvania,lackawanna,2020-03-27,42069.0,35,2
+pennsylvania,lancaster,2020-03-27,42071.0,33,0
+pennsylvania,lawrence,2020-03-27,42073.0,4,0
+pennsylvania,lebanon,2020-03-27,42075.0,12,0
+pennsylvania,lehigh,2020-03-27,42077.0,93,2
+pennsylvania,luzerne,2020-03-27,42079.0,55,2
+pennsylvania,lycoming,2020-03-27,42081.0,2,0
+pennsylvania,mercer,2020-03-27,42085.0,4,0
+pennsylvania,monroe,2020-03-27,42089.0,98,2
+pennsylvania,montgomery,2020-03-27,42091.0,374,4
+pennsylvania,montour,2020-03-27,42093.0,4,0
+pennsylvania,northampton,2020-03-27,42095.0,79,3
+pennsylvania,northumberland,2020-03-27,42097.0,1,0
+pennsylvania,philadelphia,2020-03-27,42101.0,530,2
+pennsylvania,pike,2020-03-27,42103.0,23,0
+pennsylvania,potter,2020-03-27,42105.0,1,0
+pennsylvania,schuylkill,2020-03-27,42107.0,13,0
+pennsylvania,somerset,2020-03-27,42111.0,2,0
+pennsylvania,susquehanna,2020-03-27,42115.0,1,0
+pennsylvania,union,2020-03-27,42119.0,1,0
+pennsylvania,warren,2020-03-27,42123.0,1,0
+pennsylvania,washington,2020-03-27,42125.0,14,0
+pennsylvania,wayne,2020-03-27,42127.0,6,0
+pennsylvania,westmoreland,2020-03-27,42129.0,30,0
+pennsylvania,york,2020-03-27,42133.0,29,0
+puerto rico,unknown,2020-03-27,,79,3
+rhode island,bristol,2020-03-27,44001.0,5,0
+rhode island,kent,2020-03-27,44003.0,7,0
+rhode island,newport,2020-03-27,44005.0,8,0
+rhode island,providence,2020-03-27,44007.0,42,0
+rhode island,unknown,2020-03-27,,132,0
+rhode island,washington,2020-03-27,44009.0,9,0
+south carolina,abbeville,2020-03-27,45001.0,4,0
+south carolina,aiken,2020-03-27,45003.0,6,0
+south carolina,anderson,2020-03-27,45007.0,21,0
+south carolina,beaufort,2020-03-27,45013.0,35,0
+south carolina,berkeley,2020-03-27,45015.0,10,0
+south carolina,calhoun,2020-03-27,45017.0,1,0
+south carolina,charleston,2020-03-27,45019.0,92,1
+south carolina,chester,2020-03-27,45023.0,1,0
+south carolina,chesterfield,2020-03-27,45025.0,4,0
+south carolina,clarendon,2020-03-27,45027.0,6,1
+south carolina,colleton,2020-03-27,45029.0,2,0
+south carolina,darlington,2020-03-27,45031.0,8,0
+south carolina,dillon,2020-03-27,45033.0,1,0
+south carolina,dorchester,2020-03-27,45035.0,9,0
+south carolina,edgefield,2020-03-27,45037.0,1,0
+south carolina,fairfield,2020-03-27,45039.0,4,0
+south carolina,florence,2020-03-27,45041.0,11,3
+south carolina,georgetown,2020-03-27,45043.0,3,0
+south carolina,greenville,2020-03-27,45045.0,51,1
+south carolina,greenwood,2020-03-27,45047.0,2,0
+south carolina,horry,2020-03-27,45051.0,24,1
+south carolina,jasper,2020-03-27,45053.0,3,0
+south carolina,kershaw,2020-03-27,45055.0,70,2
+south carolina,lancaster,2020-03-27,45057.0,8,0
+south carolina,lee,2020-03-27,45061.0,2,0
+south carolina,lexington,2020-03-27,45063.0,25,1
+south carolina,marion,2020-03-27,45067.0,1,0
+south carolina,marlboro,2020-03-27,45069.0,1,0
+south carolina,newberry,2020-03-27,45071.0,1,0
+south carolina,oconee,2020-03-27,45073.0,3,0
+south carolina,orangeburg,2020-03-27,45075.0,12,0
+south carolina,pickens,2020-03-27,45077.0,7,0
+south carolina,richland,2020-03-27,45079.0,65,1
+south carolina,saluda,2020-03-27,45081.0,1,0
+south carolina,spartanburg,2020-03-27,45083.0,16,0
+south carolina,sumter,2020-03-27,45085.0,10,2
+south carolina,union,2020-03-27,45087.0,1,0
+south carolina,williamsburg,2020-03-27,45089.0,1,0
+south carolina,york,2020-03-27,45091.0,19,0
+south dakota,aurora,2020-03-27,46003.0,1,0
+south dakota,beadle,2020-03-27,46005.0,16,0
+south dakota,bon homme,2020-03-27,46009.0,1,0
+south dakota,brookings,2020-03-27,46011.0,1,0
+south dakota,brown,2020-03-27,46013.0,2,0
+south dakota,charles mix,2020-03-27,46023.0,1,0
+south dakota,codington,2020-03-27,46029.0,1,0
+south dakota,davison,2020-03-27,46035.0,2,1
+south dakota,faulk,2020-03-27,46049.0,1,0
+south dakota,hughes,2020-03-27,46065.0,1,0
+south dakota,lawrence,2020-03-27,46081.0,2,0
+south dakota,lincoln,2020-03-27,46083.0,2,0
+south dakota,lyman,2020-03-27,46085.0,1,0
+south dakota,mccook,2020-03-27,46087.0,2,0
+south dakota,meade,2020-03-27,46093.0,1,0
+south dakota,minnehaha,2020-03-27,46099.0,18,0
+south dakota,pennington,2020-03-27,46103.0,3,0
+south dakota,todd,2020-03-27,46121.0,1,0
+south dakota,union,2020-03-27,46127.0,1,0
+tennessee,anderson,2020-03-27,47001.0,4,0
+tennessee,bedford,2020-03-27,47003.0,1,0
+tennessee,benton,2020-03-27,47005.0,2,0
+tennessee,blount,2020-03-27,47009.0,6,0
+tennessee,bradley,2020-03-27,47011.0,6,0
+tennessee,campbell,2020-03-27,47013.0,4,0
+tennessee,cannon,2020-03-27,47015.0,2,0
+tennessee,carroll,2020-03-27,47017.0,4,0
+tennessee,cheatham,2020-03-27,47021.0,7,0
+tennessee,chester,2020-03-27,47023.0,2,0
+tennessee,claiborne,2020-03-27,47025.0,2,0
+tennessee,cocke,2020-03-27,47029.0,1,0
+tennessee,cumberland,2020-03-27,47035.0,6,0
+tennessee,davidson,2020-03-27,47037.0,312,2
+tennessee,dekalb,2020-03-27,47041.0,3,0
+tennessee,dickson,2020-03-27,47043.0,9,0
+tennessee,dyer,2020-03-27,47045.0,3,0
+tennessee,fayette,2020-03-27,47047.0,3,0
+tennessee,franklin,2020-03-27,47051.0,3,0
+tennessee,gibson,2020-03-27,47053.0,2,0
+tennessee,greene,2020-03-27,47059.0,8,0
+tennessee,grundy,2020-03-27,47061.0,1,0
+tennessee,hamblen,2020-03-27,47063.0,2,0
+tennessee,hamilton,2020-03-27,47065.0,30,0
+tennessee,hardin,2020-03-27,47071.0,1,0
+tennessee,hawkins,2020-03-27,47073.0,2,0
+tennessee,houston,2020-03-27,47083.0,3,0
+tennessee,jefferson,2020-03-27,47089.0,5,0
+tennessee,knox,2020-03-27,47093.0,31,0
+tennessee,lewis,2020-03-27,47101.0,2,0
+tennessee,lincoln,2020-03-27,47103.0,1,0
+tennessee,loudon,2020-03-27,47105.0,6,0
+tennessee,macon,2020-03-27,47111.0,1,0
+tennessee,madison,2020-03-27,47113.0,3,0
+tennessee,marion,2020-03-27,47115.0,2,0
+tennessee,maury,2020-03-27,47119.0,7,0
+tennessee,mcminn,2020-03-27,47107.0,3,0
+tennessee,meigs,2020-03-27,47121.0,1,0
+tennessee,monroe,2020-03-27,47123.0,3,0
+tennessee,montgomery,2020-03-27,47125.0,9,0
+tennessee,overton,2020-03-27,47133.0,1,0
+tennessee,perry,2020-03-27,47135.0,2,0
+tennessee,putnam,2020-03-27,47141.0,13,0
+tennessee,roane,2020-03-27,47145.0,1,0
+tennessee,robertson,2020-03-27,47147.0,22,0
+tennessee,rutherford,2020-03-27,47149.0,39,0
+tennessee,scott,2020-03-27,47151.0,2,0
+tennessee,sevier,2020-03-27,47155.0,6,0
+tennessee,shelby,2020-03-27,47157.0,223,0
+tennessee,smith,2020-03-27,47159.0,1,0
+tennessee,sullivan,2020-03-27,47163.0,6,0
+tennessee,sumner,2020-03-27,47165.0,58,0
+tennessee,tipton,2020-03-27,47167.0,10,0
+tennessee,unicoi,2020-03-27,47171.0,1,0
+tennessee,unknown,2020-03-27,,172,4
+tennessee,washington,2020-03-27,47179.0,10,0
+tennessee,weakley,2020-03-24,47183.0,1,0
+tennessee,white,2020-03-27,47185.0,1,0
+tennessee,williamson,2020-03-27,47187.0,91,0
+tennessee,wilson,2020-03-27,47189.0,20,0
+texas,angelina,2020-03-27,48005.0,2,0
+texas,atascosa,2020-03-27,48013.0,2,0
+texas,austin,2020-03-27,48015.0,1,0
+texas,bastrop,2020-03-27,48021.0,2,0
+texas,bell,2020-03-27,48027.0,25,1
+texas,bexar,2020-03-27,48029.0,113,5
+texas,blanco,2020-03-27,48031.0,1,0
+texas,bowie,2020-03-27,48037.0,2,0
+texas,brazoria,2020-03-27,48039.0,39,0
+texas,brazos,2020-03-27,48041.0,31,0
+texas,brown,2020-03-27,48049.0,3,0
+texas,burnet,2020-03-27,48053.0,1,0
+texas,calhoun,2020-03-27,48057.0,2,0
+texas,cameron,2020-03-27,48061.0,13,0
+texas,cass,2020-03-27,48067.0,1,0
+texas,castro,2020-03-27,48069.0,7,0
+texas,chambers,2020-03-27,48071.0,2,0
+texas,cherokee,2020-03-27,48073.0,1,0
+texas,collin,2020-03-27,48085.0,88,1
+texas,comal,2020-03-27,48091.0,9,1
+texas,cooke,2020-03-27,48097.0,1,0
+texas,coryell,2020-03-27,48099.0,1,0
+texas,crane,2020-03-27,48103.0,1,0
+texas,dallas,2020-03-27,48113.0,367,7
+texas,deaf smith,2020-03-27,48117.0,2,0
+texas,denton,2020-03-27,48121.0,137,1
+texas,dewitt,2020-03-27,48123.0,3,0
+texas,eastland,2020-03-27,48133.0,2,0
+texas,el paso,2020-03-27,48141.0,30,0
+texas,ellis,2020-03-27,48139.0,13,0
+texas,erath,2020-03-27,48143.0,1,0
+texas,falls,2020-03-27,48145.0,1,0
+texas,fannin,2020-03-27,48147.0,1,0
+texas,fayette,2020-03-27,48149.0,1,0
+texas,fort bend,2020-03-27,48157.0,101,1
+texas,gaines,2020-03-27,48165.0,1,0
+texas,galveston,2020-03-27,48167.0,49,0
+texas,grayson,2020-03-27,48181.0,2,0
+texas,gregg,2020-03-27,48183.0,4,0
+texas,grimes,2020-03-27,48185.0,2,0
+texas,guadalupe,2020-03-27,48187.0,8,0
+texas,hale,2020-03-27,48189.0,1,0
+texas,hardin,2020-03-27,48199.0,4,0
+texas,harris,2020-03-27,48201.0,229,2
+texas,harrison,2020-03-27,48203.0,1,0
+texas,hays,2020-03-27,48209.0,13,0
+texas,hidalgo,2020-03-27,48215.0,18,0
+texas,hockley,2020-03-27,48219.0,5,0
+texas,hood,2020-03-27,48221.0,2,0
+texas,hopkins,2020-03-27,48223.0,1,0
+texas,hunt,2020-03-27,48231.0,1,0
+texas,jackson,2020-03-27,48239.0,1,0
+texas,jefferson,2020-03-27,48245.0,8,0
+texas,johnson,2020-03-27,48251.0,6,0
+texas,karnes,2020-03-27,48255.0,1,0
+texas,kaufman,2020-03-27,48257.0,2,0
+texas,kendall,2020-03-27,48259.0,4,0
+texas,lamar,2020-03-27,48277.0,1,0
+texas,lavaca,2020-03-27,48285.0,1,0
+texas,liberty,2020-03-27,48291.0,2,0
+texas,limestone,2020-03-27,48293.0,1,0
+texas,llano,2020-03-27,48299.0,2,0
+texas,lubbock,2020-03-27,48303.0,31,0
+texas,martin,2020-03-27,48317.0,1,0
+texas,matagorda,2020-03-27,48321.0,9,1
+texas,maverick,2020-03-27,48323.0,1,0
+texas,mclennan,2020-03-27,48309.0,33,0
+texas,medina,2020-03-27,48325.0,3,0
+texas,midland,2020-03-27,48329.0,6,1
+texas,milam,2020-03-27,48331.0,2,0
+texas,montague,2020-03-27,48337.0,1,0
+texas,montgomery,2020-03-27,48339.0,46,0
+texas,morris,2020-03-27,48343.0,1,0
+texas,nacogdoches,2020-03-27,48347.0,1,0
+texas,navarro,2020-03-27,48349.0,1,0
+texas,nueces,2020-03-27,48355.0,18,0
+texas,oldham,2020-03-27,48359.0,1,1
+texas,orange,2020-03-27,48361.0,1,0
+texas,parker,2020-03-27,48367.0,2,0
+texas,potter,2020-03-27,48375.0,2,0
+texas,randall,2020-03-27,48381.0,3,0
+texas,robertson,2020-03-27,48395.0,1,0
+texas,rockwall,2020-03-27,48397.0,3,0
+texas,rusk,2020-03-27,48401.0,2,0
+texas,san patricio,2020-03-27,48409.0,1,0
+texas,shelby,2020-03-27,48419.0,1,0
+texas,smith,2020-03-27,48423.0,27,1
+texas,starr,2020-03-27,48427.0,2,0
+texas,tarrant,2020-03-27,48439.0,114,1
+texas,taylor,2020-03-27,48441.0,1,0
+texas,terry,2020-03-27,48445.0,3,0
+texas,tom green,2020-03-27,48451.0,2,0
+texas,travis,2020-03-27,48453.0,160,1
+texas,upshur,2020-03-27,48459.0,1,0
+texas,uvalde,2020-03-27,48463.0,1,0
+texas,val verde,2020-03-27,48465.0,2,0
+texas,van zandt,2020-03-27,48467.0,1,0
+texas,victoria,2020-03-27,48469.0,3,0
+texas,walker,2020-03-27,48471.0,3,0
+texas,webb,2020-03-27,48479.0,22,0
+texas,wharton,2020-03-27,48481.0,3,0
+texas,wichita,2020-03-27,48485.0,15,0
+texas,willacy,2020-03-27,48489.0,1,0
+texas,williamson,2020-03-27,48491.0,34,0
+texas,wilson,2020-03-27,48493.0,1,0
+texas,yoakum,2020-03-27,48501.0,1,0
+texas,young,2020-03-27,48503.0,1,0
+utah,box elder,2020-03-27,49003.0,2,0
+utah,cache,2020-03-27,49005.0,5,0
+utah,davis,2020-03-27,49011.0,50,1
+utah,iron,2020-03-27,49021.0,2,0
+utah,morgan,2020-03-27,49029.0,2,0
+utah,salt lake,2020-03-27,49035.0,212,0
+utah,summit,2020-03-27,49043.0,110,0
+utah,tooele,2020-03-27,49045.0,5,0
+utah,uintah,2020-03-27,49047.0,1,0
+utah,unknown,2020-03-27,,17,0
+utah,utah,2020-03-27,49049.0,27,0
+utah,wasatch,2020-03-27,49051.0,29,0
+utah,washington,2020-03-27,49053.0,6,0
+utah,weber,2020-03-27,49057.0,12,0
+vermont,addison,2020-03-27,50001.0,13,0
+vermont,bennington,2020-03-27,50003.0,13,0
+vermont,caledonia,2020-03-27,50005.0,2,0
+vermont,chittenden,2020-03-27,50007.0,90,6
+vermont,franklin,2020-03-27,50011.0,6,0
+vermont,lamoille,2020-03-27,50015.0,6,0
+vermont,orange,2020-03-27,50017.0,3,0
+vermont,orleans,2020-03-27,50019.0,4,0
+vermont,rutland,2020-03-27,50021.0,5,0
+vermont,unknown,2020-03-27,,23,5
+vermont,washington,2020-03-27,50023.0,9,0
+vermont,windham,2020-03-27,50025.0,9,0
+vermont,windsor,2020-03-27,50027.0,18,1
+virgin islands,unknown,2020-03-27,,19,0
+virginia,accomack,2020-03-27,51001.0,2,0
+virginia,albemarle,2020-03-27,51003.0,8,0
+virginia,alexandria city,2020-03-27,51510.0,18,0
+virginia,amelia,2020-03-27,51007.0,1,0
+virginia,amherst,2020-03-27,51009.0,1,0
+virginia,arlington,2020-03-27,51013.0,63,0
+virginia,bedford,2020-03-27,51019.0,2,0
+virginia,botetourt,2020-03-27,51023.0,1,0
+virginia,bristol city,2020-03-27,51520.0,1,0
+virginia,charles city,2020-03-27,51036.0,1,0
+virginia,charlottesville city,2020-03-27,51540.0,11,0
+virginia,chesapeake city,2020-03-27,51550.0,5,0
+virginia,chesterfield,2020-03-27,51041.0,12,0
+virginia,culpeper,2020-03-27,51047.0,2,0
+virginia,danville city,2020-03-27,51590.0,4,0
+virginia,fairfax,2020-03-27,51059.0,124,1
+virginia,fairfax city,2020-03-27,51600.0,1,0
+virginia,fauquier,2020-03-27,51061.0,4,0
+virginia,fluvanna,2020-03-27,51065.0,3,0
+virginia,franklin,2020-03-27,51067.0,1,0
+virginia,frederick,2020-03-27,51069.0,4,0
+virginia,fredericksburg city,2020-03-27,51630.0,1,0
+virginia,galax city,2020-03-27,51640.0,1,0
+virginia,gloucester,2020-03-27,51073.0,3,0
+virginia,goochland,2020-03-27,51075.0,3,0
+virginia,greene,2020-03-27,51079.0,1,0
+virginia,halifax,2020-03-27,51083.0,1,0
+virginia,hampton city,2020-03-27,51650.0,5,0
+virginia,hanover,2020-03-27,51085.0,2,0
+virginia,harrisonburg city,2020-03-27,51660.0,5,0
+virginia,henrico,2020-03-27,51087.0,28,3
+virginia,isle of wight,2020-03-27,51093.0,2,0
+virginia,james city,2020-03-27,51095.0,55,3
+virginia,king george,2020-03-27,51099.0,1,0
+virginia,lee,2020-03-27,51105.0,2,0
+virginia,loudoun,2020-03-27,51107.0,43,0
+virginia,louisa,2020-03-27,51109.0,5,0
+virginia,lynchburg city,2020-03-27,51680.0,2,0
+virginia,madison,2020-03-27,51113.0,2,0
+virginia,manassas city,2020-03-27,51683.0,3,0
+virginia,mathews,2020-03-27,51115.0,1,0
+virginia,mecklenburg,2020-03-27,51117.0,4,0
+virginia,nelson,2020-03-27,51125.0,1,0
+virginia,newport news city,2020-03-27,51700.0,12,1
+virginia,norfolk city,2020-03-27,51710.0,8,0
+virginia,northampton,2020-03-27,51131.0,1,0
+virginia,nottoway,2020-03-27,51135.0,1,0
+virginia,orange,2020-03-27,51137.0,1,0
+virginia,pittsylvania,2020-03-27,51143.0,1,0
+virginia,poquoson city,2020-03-27,51735.0,1,0
+virginia,portsmouth city,2020-03-27,51740.0,3,0
+virginia,prince edward,2020-03-27,51147.0,2,0
+virginia,prince george,2020-03-27,51149.0,2,0
+virginia,prince william,2020-03-27,51153.0,44,0
+virginia,radford city,2020-03-27,51750.0,1,0
+virginia,richmond city,2020-03-27,51760.0,17,0
+virginia,roanoke,2020-03-27,51161.0,1,0
+virginia,roanoke city,2020-03-27,51770.0,1,0
+virginia,rockbridge,2020-03-27,51163.0,1,0
+virginia,rockingham,2020-03-27,51165.0,4,0
+virginia,shenandoah,2020-03-27,51171.0,3,0
+virginia,southampton,2020-03-27,51175.0,1,0
+virginia,spotsylvania,2020-03-27,51177.0,3,0
+virginia,stafford,2020-03-27,51179.0,11,0
+virginia,suffolk city,2020-03-27,51800.0,1,0
+virginia,virginia beach city,2020-03-27,51810.0,29,0
+virginia,warren,2020-03-27,51187.0,2,0
+virginia,washington,2020-03-27,51191.0,1,0
+virginia,williamsburg city,2020-03-27,51830.0,5,1
+virginia,york,2020-03-27,51199.0,9,0
+washington,adams,2020-03-27,53001.0,5,0
+washington,benton,2020-03-27,53005.0,42,5
+washington,chelan,2020-03-27,53007.0,14,2
+washington,clallam,2020-03-27,53009.0,5,0
+washington,clark,2020-03-27,53011.0,76,6
+washington,columbia,2020-03-27,53013.0,1,0
+washington,cowlitz,2020-03-27,53015.0,7,0
+washington,douglas,2020-03-27,53017.0,5,0
+washington,ferry,2020-03-27,53019.0,1,0
+washington,franklin,2020-03-27,53021.0,12,0
+washington,grant,2020-03-27,53025.0,42,1
+washington,grays harbor,2020-03-27,53027.0,1,0
+washington,island,2020-03-27,53029.0,79,1
+washington,jefferson,2020-03-27,53031.0,11,0
+washington,king,2020-03-27,53033.0,1830,127
+washington,kitsap,2020-03-27,53035.0,42,1
+washington,kittitas,2020-03-27,53037.0,18,0
+washington,klickitat,2020-03-27,53039.0,7,0
+washington,lewis,2020-03-27,53041.0,7,0
+washington,lincoln,2020-03-27,53043.0,1,0
+washington,mason,2020-03-27,53045.0,2,0
+washington,okanogan,2020-03-27,53047.0,2,0
+washington,pierce,2020-03-27,53053.0,231,5
+washington,san juan,2020-03-27,53055.0,3,0
+washington,skagit,2020-03-27,53057.0,91,1
+washington,skamania,2020-03-27,53059.0,1,0
+washington,snohomish,2020-03-27,53061.0,913,23
+washington,spokane,2020-03-27,53063.0,86,1
+washington,stevens,2020-03-27,53065.0,3,0
+washington,thurston,2020-03-27,53067.0,27,0
+washington,walla walla,2020-03-27,53071.0,3,0
+washington,whatcom,2020-03-27,53073.0,92,4
+washington,whitman,2020-03-27,53075.0,5,0
+washington,yakima,2020-03-27,53077.0,72,2
+west virginia,berkeley,2020-03-27,54003.0,9,0
+west virginia,greenbrier,2020-03-27,54025.0,1,0
+west virginia,hancock,2020-03-27,54029.0,1,0
+west virginia,harrison,2020-03-27,54033.0,4,0
+west virginia,jackson,2020-03-27,54035.0,6,0
+west virginia,jefferson,2020-03-27,54037.0,4,0
+west virginia,kanawha,2020-03-27,54039.0,17,0
+west virginia,logan,2020-03-27,54045.0,1,0
+west virginia,marion,2020-03-27,54049.0,3,0
+west virginia,marshall,2020-03-27,54051.0,3,0
+west virginia,mason,2020-03-27,54053.0,3,0
+west virginia,mercer,2020-03-27,54055.0,2,0
+west virginia,monongalia,2020-03-27,54061.0,24,0
+west virginia,ohio,2020-03-27,54069.0,6,0
+west virginia,pleasants,2020-03-27,54073.0,1,0
+west virginia,preston,2020-03-27,54077.0,2,0
+west virginia,putnam,2020-03-27,54079.0,3,0
+west virginia,raleigh,2020-03-27,54081.0,3,0
+west virginia,tucker,2020-03-27,54093.0,2,0
+west virginia,upshur,2020-03-27,54097.0,1,0
+west virginia,wood,2020-03-27,54107.0,2,0
+wisconsin,bayfield,2020-03-27,55007.0,2,0
+wisconsin,brown,2020-03-27,55009.0,5,0
+wisconsin,calumet,2020-03-27,55015.0,1,0
+wisconsin,chippewa,2020-03-27,55017.0,3,0
+wisconsin,clark,2020-03-27,55019.0,3,0
+wisconsin,columbia,2020-03-27,55021.0,7,0
+wisconsin,dane,2020-03-27,55025.0,158,1
+wisconsin,dodge,2020-03-27,55027.0,6,0
+wisconsin,douglas,2020-03-27,55031.0,5,0
+wisconsin,dunn,2020-03-27,55033.0,2,0
+wisconsin,eau claire,2020-03-27,55035.0,8,0
+wisconsin,fond du lac,2020-03-27,55039.0,19,1
+wisconsin,grant,2020-03-27,55043.0,1,0
+wisconsin,green,2020-03-27,55045.0,3,0
+wisconsin,iowa,2020-03-27,55049.0,3,0
+wisconsin,iron,2020-03-27,55051.0,1,1
+wisconsin,jefferson,2020-03-27,55055.0,6,0
+wisconsin,juneau,2020-03-27,55057.0,2,0
+wisconsin,kenosha,2020-03-27,55059.0,24,0
+wisconsin,la crosse,2020-03-27,55063.0,15,0
+wisconsin,marathon,2020-03-27,55073.0,1,0
+wisconsin,marinette,2020-03-27,55075.0,1,0
+wisconsin,milwaukee,2020-03-27,55079.0,468,9
+wisconsin,monroe,2020-03-27,55081.0,1,0
+wisconsin,outagamie,2020-03-27,55087.0,4,0
+wisconsin,ozaukee,2020-03-27,55089.0,30,3
+wisconsin,pierce,2020-03-27,55093.0,4,0
+wisconsin,portage,2020-03-27,55097.0,1,0
+wisconsin,racine,2020-03-27,55101.0,9,0
+wisconsin,richland,2020-03-27,55103.0,2,0
+wisconsin,rock,2020-03-27,55105.0,12,0
+wisconsin,sauk,2020-03-27,55111.0,8,1
+wisconsin,sheboygan,2020-03-27,55117.0,7,0
+wisconsin,st. croix,2020-03-27,55109.0,4,0
+wisconsin,vilas,2020-03-27,55125.0,2,0
+wisconsin,walworth,2020-03-27,55127.0,5,0
+wisconsin,washington,2020-03-27,55131.0,27,0
+wisconsin,waukesha,2020-03-27,55133.0,61,0
+wisconsin,waupaca,2020-03-27,55135.0,1,0
+wisconsin,winnebago,2020-03-27,55139.0,6,0
+wisconsin,wood,2020-03-27,55141.0,2,0
+wyoming,albany,2020-03-27,56001.0,1,0
+wyoming,campbell,2020-03-27,56005.0,1,0
+wyoming,carbon,2020-03-27,56007.0,3,0
+wyoming,fremont,2020-03-27,56013.0,17,0
+wyoming,goshen,2020-03-27,56015.0,1,0
+wyoming,hot springs,2020-03-27,56017.0,1,0
+wyoming,johnson,2020-03-27,56019.0,4,0
+wyoming,laramie,2020-03-27,56021.0,18,0
+wyoming,natrona,2020-03-27,56025.0,8,0
+wyoming,park,2020-03-27,56029.0,1,0
+wyoming,sheridan,2020-03-27,56033.0,5,0
+wyoming,sweetwater,2020-03-27,56037.0,1,0
+wyoming,teton,2020-03-27,56039.0,12,0
+wyoming,washakie,2020-03-27,56043.0,1,0
